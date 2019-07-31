@@ -1,0 +1,1494 @@
+<HTML xmlns="http://www.w3.org/1999/xhtml" xmlns:b = "http://www.google.com/2005/gml/b" xmlns:data = "http://www.google.com/2005/gml/data" xmlns:expr = "http://www.google.com/2005/gml/expr"><HEAD><TITLE>Masala babes</TITLE>
+<SCRIPT type=text/javascript>(function() { var a=window;function b(){this.t={};this.tick=function(e,f){this.t[e]=[(new Date).getTime(),f]};this.tick("start")}var c=new b;a.jstiming={Timer:b,load:c};if(a.external&&a.external.pageT)a.jstiming.pt=a.external.pageT;var d=false;function g(){if(!d){d=true;a.jstiming.load.tick("firstScrollTime")}}a.addEventListener?a.addEventListener("scroll",g,false):a.attachEvent("onscroll",g); })();</SCRIPT>
+
+<META http-equiv=Content-Type content="text/html; charset=UTF-8">
+<META content=true name=MSSmartTagsPreventParsing>
+<META content=blogger name=generator><LINK href="http://www.blogger.com/favicon.ico" type=image/vnd.microsoft.icon rel=icon><LINK title="Masala babes - Atom" href="http://masalababes.blogspot.com/feeds/posts/default" type=application/atom+xml rel=alternate><LINK title="Masala babes - RSS" href="http://masalababes.blogspot.com/feeds/posts/default?alt=rss" type=application/rss+xml rel=alternate><LINK title="Masala babes - Atom" href="http://www.blogger.com/feeds/5877773710011776982/posts/default" type=application/atom+xml rel=service.post><LINK title=RSD href="http://www.blogger.com/rsd.g?blogID=5877773710011776982" type=application/rsd+xml rel=EditURI><LINK href="http://www.blogger.com/openid-server.g" rel=openid.server>
+<STYLE id=page-skin-1 type=text/css><!--
+
+/* Variable definitions
+====================
+<Variable name="textcolor" description="Text Color"
+type="color" default="#000">
+<Variable name="bgcolor" description="Page Background Color"
+type="color" default="#f6f6f6">
+<Variable name="pagetitlecolor" description="Blog Title Color"
+type="color" default="#F5DEB3">
+<Variable name="pagetitlebgcolor" description="Blog Title Background Color"
+type="color" default="#DE7008">
+<Variable name="descriptionColor" description="Blog Description Color"
+type="color" default="#9E5205" />
+<Variable name="descbgcolor" description="Description Background Color"
+type="color" default="#F5E39e">
+<Variable name="titlecolor" description="Post Title Color"
+type="color" default="#9E5205">
+<Variable name="datecolor" description="Date Header Color"
+type="color" default="#777777">
+<Variable name="footercolor" description="Post Footer Color"
+type="color" default="#444444">
+<Variable name="linkcolor" description="Link Color"
+type="color" default="#DE7008">
+<Variable name="footerlinkcolor" description="Post Footer Link Color"
+type="color" default="#968a0a">
+<Variable name="visitedlinkcolor" description="Visited Link Color"
+type="color" default="#DE7008">
+<Variable name="sidebarcolor" description="Sidebar Title Color"
+type="color" default="#B8A80D">
+<Variable name="sidebarlinkcolor" description="Sidebar Link Color"
+type="color" default="#999999">
+<Variable name="bordercolor" description="Border Color"
+type="color" default="#e0ad12">
+<Variable name="bodyfont" description="Text Font"
+type="font"
+default="normal normal 100% 'Trebuchet MS',Trebuchet,Verdana,Sans-Serif">
+<Variable name="headerfont" description="Sidebar Title Font"
+type="font"
+default="normal bold 150% Verdana,Sans-serif">
+<Variable name="dateHeaderFont" description="Date Header Font"
+type="font"
+default="normal bold 105% 'Trebuchet MS',Trebuchet,Verdana,Sans-serif">
+<Variable name="pagetitlefont" description="Blog Title Font"
+type="font" default="normal bold 300% Verdana,Sans-Serif">
+<Variable name="titlefont" description="Post Title Font"
+type="font" default="normal bold 160% Verdana,Sans-Serif">
+*/
+body {
+margin:0px;
+padding:0px;
+background:#f6f6f6;
+color:#000000;
+font-size: small;
+}
+#navbar
+{
+height:0px;
+visibility:hidden;
+display:none
+}
+#outer-wrapper {
+font:normal normal 100% 'Trebuchet MS',Trebuchet,Verdana,Sans-Serif;
+}
+a {
+color:#DE7008;
+}
+a:hover {
+color:#9E5205;
+}
+a img {
+border-width: 0;
+}
+#content-wrapper {
+padding: 0 1em 0 1em;
+}
+@media all  {
+div#main {
+float:left;
+width:55%;
+margin:0 1%;
+padding:30px 0 10px 1em;
+border-left:dotted 1px #e0ad12;
+border-right:dotted 1px #e0ad12;
+word-wrap: break-word; /* fix for long text breaking sidebar float in IE */
+overflow: hidden;     /* fix for long non-text content breaking IE sidebar float */
+}
+div.sidebar {
+margin:20px 0px 0px 0;
+padding:0px;
+text-align:left;
+float: left;
+width: 20%;
+word-wrap: break-word; /* fix for long text breaking sidebar float in IE */
+overflow: hidden;     /* fix for long non-text content breaking IE sidebar float */
+}
+}
+@media handheld  {
+div#main {
+float:none;
+width:90%;
+}
+div#sidebar {
+padding:30px 7% 10px 3%;
+}
+}
+#header {
+padding:0px 0px 0px 0px;
+margin:0px 0px 0px 0px;
+border-bottom:dotted 1px #e0ad12;
+background:#F5E39e;
+}
+h1 a:link  {
+text-decoration:none;
+color:#F5DEB3
+}
+h1 a:visited  {
+text-decoration:none;
+color:#F5DEB3
+}
+h1,h2,h3 {
+margin: 0;
+}
+h1 {
+padding:25px 0px 10px 5%;
+color:#F5DEB3;
+background:#DE7008;
+font:normal bold 300% Verdana,Sans-Serif;
+letter-spacing:-2px;
+}
+h3.post-title {
+color:#9E5205;
+font:normal bold 160% Verdana,Sans-Serif;
+letter-spacing:-1px;
+}
+h3.post-title a,
+h3.post-title a:visited {
+color: #9E5205;
+}
+h2.date-header  {
+margin:10px 0px 0px 0px;
+color:#777777;
+font: normal bold 105% 'Trebuchet MS',Trebuchet,Verdana,Sans-serif;
+}
+h4 {
+color:#aa0033;
+}
+#sidebar h2 {
+color:#B8A80D;
+margin:0px;
+padding:0px;
+font:normal bold 150% Verdana,Sans-serif;
+}
+#sidebar .widget {
+margin:0px 0px 33px 0px;
+padding:0px 0px 0px 0px;
+font-size:95%;
+}
+#sidebar ul {
+list-style-type:none;
+padding-left: 0;
+margin-top: 0;
+}
+#sidebar li {
+margin:0px 0px 0px 0px;
+padding:0px 0px 0px 0px;
+list-style-type:none;
+font-size:95%;
+}
+.description {
+padding:0px;
+margin:7px 12% 7px 5%;
+color:#9E5205;
+background:transparent;
+font:bold 100% Verdana,Sans-Serif;
+}
+.post {
+margin:0px 0px 30px 0px;
+}
+.post strong {
+color:#000000;
+font-weight:bold;
+}
+pre,code {
+color:#999999;
+}
+strike {
+color:#999999;
+}
+.post-footer  {
+padding:0px;
+margin:0px;
+color:#444444;
+font-size:80%;
+}
+.post-footer a {
+border:none;
+color:#968a0a;
+text-decoration:none;
+}
+.post-footer a:hover {
+text-decoration:underline;
+}
+#comments {
+padding:0px;
+font-size:110%;
+font-weight:bold;
+}
+.comment-author {
+margin-top: 10px;
+}
+.comment-body {
+font-size:100%;
+font-weight:normal;
+color:black;
+}
+.comment-footer {
+padding-bottom:20px;
+color:#444444;
+font-size:80%;
+font-weight:normal;
+display:inline;
+margin-right:10px
+}
+.deleted-comment  {
+font-style:italic;
+color:gray;
+}
+.comment-link  {
+margin-left:.6em;
+}
+.profile-textblock {
+clear: both;
+margin-left: 0;
+}
+.profile-img {
+float: left;
+margin: 0 5px 5px 0;
+border: 2px solid #DE7008;
+}
+#sidebar a:link  {
+color:#999999;
+text-decoration:none;
+}
+#sidebar a:active  {
+color:#ff0000;
+text-decoration:none;
+}
+#sidebar a:visited  {
+color:sidebarlinkcolor;
+text-decoration:none;
+}
+#sidebar a:hover {
+color:#B8A80D;
+text-decoration:none;
+}
+.feed-links {
+clear: both;
+line-height: 2.5em;
+}
+#blog-pager-newer-link {
+float: left;
+}
+#blog-pager-older-link {
+float: right;
+}
+#blog-pager {
+text-align: center;
+}
+.clear {
+clear: both;
+}
+.widget-content {
+margin-top: 0.5em;
+}
+/** Tweaks for layout editor preview */
+body#layout #outer-wrapper {
+margin-top: 0;
+}
+body#layout #main,
+body#layout #sidebar {
+margin-top: 10px;
+padding-top: 0;
+}
+
+--></STYLE>
+<!-- Style to implement "Read more on this Article" link in all the posts (Start) -->
+<STYLE>
+    
+        span.fullpost {display:none;}
+    
+</STYLE>
+<!-- Style to implement "Read more on this Article" link in all the posts (End) --><LINK href="http://www.blogger.com/widgets/3825235830-widget_css_bundle.css" type=text/css rel=stylesheet><LINK href="http://www.blogger.com/v-css/3727950723-blog_controls.css" type=text/css rel=stylesheet><LINK href="http://www.blogger.com/dyn-css/authorization.css?targetBlogID=5877773710011776982&amp;zx=1f03c8fa-6882-4991-ad95-3dcf17d15741" type=text/css rel=stylesheet>
+<STYLE type=text/css>#navbar-iframe { display:block }
+</STYLE>
+</HEAD>
+<BODY>
+<DIV class="navbar section" id=navbar>
+<DIV class="widget Navbar" id=Navbar1>
+<SCRIPT type=text/javascript>
+    function setAttributeOnload(object, attribute, val) {
+      if(window.addEventListener) {
+        window.addEventListener("load",
+          function(){ object[attribute] = val; }, false);
+      } else {
+        window.attachEvent('onload', function(){ object[attribute] = val; });
+      }
+    }
+  </SCRIPT>
+<IFRAME id=navbar-iframe title="Blogger Navigation and Search" marginWidth=0 marginHeight=0 src="http://www.blogger.com/navbar.g?targetBlogID=5877773710011776982&amp;blogName=Masala+babes&amp;publishMode=PUBLISH_MODE_BLOGSPOT&amp;navbarType=BLUE&amp;layoutType=LAYOUTS&amp;homepageUrl=http%3A%2F%2Fmasalababes.blogspot.com%2F&amp;searchRoot=http%3A%2F%2Fmasalababes.blogspot.com%2Fsearch" frameBorder=0 width="100%" scrolling=no height=30></IFRAME>
+<DIV></DIV></DIV></DIV>
+<DIV id=outer-wrapper>
+<DIV id=wrap2><!-- skip links for text browsers --><SPAN id=skiplinks style="DISPLAY: none"><A href="#main">skip to main </A>| <A href="#sidebar">skip to sidebar</A> </SPAN>
+<DIV id=header-wrapper>
+<DIV class="header section" id=header>
+<DIV class="widget Header" id=Header1>
+<DIV class=titlewrapper>
+<H1 class=title>Masala babes </H1></DIV>
+<DIV class=descriptionwrapper>
+<P class=description><SPAN></SPAN></P></DIV></DIV></DIV></DIV>
+<DIV id=content-wrapper>
+<DIV class=sidebar-wrapper>
+<DIV class="sidebar section" id=sidebar1>
+<DIV class="widget BlogArchive" id=BlogArchive1>
+<H2>Blog Archive</H2>
+<DIV class=widget-content>
+<DIV id=ArchiveList>
+<DIV id=BlogArchive1_ArchiveList>
+<UL>
+<LI class="archivedate expanded"><A class=toggle href="http://masalababes.blogspot.com/?widgetType=BlogArchive&amp;widgetId=BlogArchive1&amp;action=toggle&amp;dir=close&amp;toggle=YEARLY-1230748200000&amp;toggleopen=MONTHLY-1233426600000"><SPAN class="zippy toggle-open">? </SPAN></A><A class=post-count-link href="http://masalababes.blogspot.com/search?updated-min=2009-01-01T00%3A00%3A00%2B05%3A30&amp;updated-max=2010-01-01T00%3A00%3A00%2B05%3A30&amp;max-results=50">2009</A> (<SPAN class=post-count>389</SPAN>) 
+<UL>
+<LI class="archivedate expanded"><A class=toggle href="http://masalababes.blogspot.com/?widgetType=BlogArchive&amp;widgetId=BlogArchive1&amp;action=toggle&amp;dir=close&amp;toggle=MONTHLY-1233426600000&amp;toggleopen=MONTHLY-1233426600000"><SPAN class="zippy toggle-open">? </SPAN></A><A class=post-count-link href="http://masalababes.blogspot.com/2009_02_01_archive.html">February</A> (<SPAN class=post-count>76</SPAN>) 
+<UL class=posts>
+<LI><A href="http://masalababes.blogspot.com/2009/02/bipasha-basu-looking-ordinary-without.html">Bipasha basu looking ordinary without make up</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/gorgeous-asin-graces-cover-of-filmfare.html">Gorgeous Asin graces the cover of Filmfare</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/mugdha-godse-graces-cover-of-stuff.html">Mugdha Godse graces the cover of Stuff</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/10-hot-women-wed-love-to-date.html">10 hot women we'd love to date</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/aishwarya-rais-latest-classic-shots.html">Aishwarya rai's latest classic shots</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/spottedaishwarya-rai-and-abhishek.html">Spotted:Aishwarya Rai and Abhishek Bachchan leavin...</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/bipasha-basu-looking-gorgeous-in-new.html">Bipasha basu looking gorgeous in new Gili Jeweller...</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/hot-kangana-ranaut-at-success-party-of.html">Hot Kangana ranaut at the success party of Raaz-TM...</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/bipasha-and-neil-hot-look-in-aa-dekhen.html">Bipasha and Neil hot look in 'Aa dekhen Zara'</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/kareena-kapoor-looking-stunning-in.html">Kareena kapoor looking stunning in trans Saree</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/tanushree-dutta-sizzles-on-maxim-feb.html">Tanushree dutta sizzles on Maxim Feb Issue</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/freida-pinto-sizzles-on-cover-of-vanity.html">Freida pinto sizzles on the cover of Vanity Fair</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/rukhsar-goes-topless-in-stoneman.html">Rukhsar goes Topless in 'Stoneman'</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/anjana-sukhani-looking-stunning-in.html">Anjana sukhani looking stunning in Saree</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/aishwarya-spotted-outside-her-nyc-hotel.html">Aishwarya Spotted outside her NYC hotel with her f...</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/first-lookhrithik-roshan-and-barbara.html">First look:Hrithik Roshan and Barbara Mori in Kite...</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/amrita-arora-february-2009-grazia-mag.html">Amrita Arora February 2009 Grazia Mag Scans</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/rare-picturekareena-kapoor-and-katrina.html">Rare picture:Kareena kapoor and Katrina kaif pose ...</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/caption-this_06.html">Caption This!</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/aishwarya-rais-different-moods.html">Aishwarya rai's different Moods</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/tabu-sizziles-on-hi-living-magazine.html">Tabu sizziles on Hi Living Magazine</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/saif-and-kareena-share-sizzling-lip.html">Saif and Kareena share sizzling lip-lock in upcomi...</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/amisha-patel-stunning-kohl-magazine.html">Amisha patel stunning kohl magazine scans</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/jessica-bratichsmitchell-johnsons.html">Jessica Bratich's(Mitchell Johnson's GirlFriend) ...</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/masala-wallpapers-of-day.html">Masala wallpapers of the day</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/katrina-kaif-goes-de-glam.html">Katrina Kaif goes De-glam</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/revealed-freida-pintos-fiance.html">Revealed: Freida Pinto's fiance</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/shocking-picsevolution-of-sherlynmona.html">Shocking pics:Evolution of Sherlyn/Mona chopra</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/kanavs-ghar-wallie.html">Kanav's Ghar Wallie</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/is-something-going-on-between-yuvi-and.html">Is Something going on between Yuvi and Minissha?</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/sonam-kapoor-with-his-brother-and.html">Sonam Kapoor with his Brother and sisters after a ...</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/aishwarya-rai-flaunts-yummy-cleavage-at.html">Aishwarya rai flaunts yummy cleavage at Pink panth...</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/shilpa-enters-ipl-ring.html">Shilpa Enters IPL Ring</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/celina-jaitley-chained-and-tortured.html">Celina Jaitley Chained And Tortured !</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/asins-controversial-shots-wtf-was-she.html">Asin's controversial shots | WTF was she thinking</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/first-lookbipasha-basu-in-aa-dekhen.html">First look:Bipasha basu in Aa dekhen Zara</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/amrita-raos-latest-hot-photoshoot.html">Amrita rao's latest hot photoshoot</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/some-vintage-saari-ads-by-filmstars.html">Some vintage saari ads by filmstars!</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/kangna-ranaut-finds-herself-scary.html">Kangna Ranaut finds herself scary!</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/asin-unveils-filmfare-latest-issue.html">Asin Unveils Filmfare Latest Issue</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/vidya-balan-at-vidya-balan-alongwith.html">Vidya balan at 'A Tribute to Ustad Allah Rakha Kha...</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/sexy-aishwarya-rai-at-premier-of-pink.html">Sexy Aishwarya rai at the premier of Pink panther ...</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/shilpa-shetty-and-raj-kundra-partner.html">Shilpa Shetty and Raj Kundra partner with the Raja...</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/tabu-upskirt-picture.html">Tabu upskirt picture</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/rekhas-sexy-hq-scans-from-filmfare.html">Rekha's sexy HQ scans from Filmfare</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/amisha-patels-killer-expressions.html">Amisha patel's killer expressions</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/hot-and-sexy-freida-pinto.html">Hot and Sexy Freida pinto</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/sonam-kapoors-new-hot-look-in-verve.html">Sonam kapoor's new hot look in verve magazine</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/now-vidyas-blogging-too.html">Now, Vidya's blogging too</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/new-girl-in-vivek-oberois-life.html">New girl in Vivek oberoi's life</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/gorgeous-asin-on-cover-of-cosmopolitan.html">Gorgeous Asin on the cover of Cosmopolitan</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/sexy-aishwarya-rai-from-movie-robot-hq.html">Sexy Aishwarya rai from movie Robot-HQ stills</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/hot-shots-of-horny-babe-shreya-ghoshal.html">Hot Shots of Horny Babe Shreya ghoshal</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/assclusive-shriya-saran.html">Assclusive Shriya saran</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/young-angelina-jolie-in-bikini-duirng.html">Young Angelina Jolie In Bikini: Duirng her Modelli...</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/sexy-sania-mirza-from-australian-open.html">Sexy Sania mirza from Australian open Final match</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/spottedaishwarya-and-abhishek-at.html">Spotted:Aishwarya and Abhishek at Airport</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/nandana-sen-sizzling-hot-wallpapers.html">Nandana Sen sizzling hot wallpapers</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/himesh-declares-war-on-mallika-sherawat.html">Himesh declares war on Mallika Sherawat</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/kareena-kapoor-honoured-by-rotary-club.html">Kareena Kapoor honoured by Rotary Club</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/vintage-beauty-sharmila-tagore-in.html">Vintage Beauty Sharmila tagore in bikini</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/nokia-star-screen-awards-bipasha-hq.html">Nokia Star Screen Awards Bipasha HQ poster</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/revealed-freida-pintos-first-photoshoot.html">Revealed: Freida Pinto's First Photoshoot Pix</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/tanvi-vermas-sexy-song-from-movie-bold.html">Tanvi Verma's sexy song from movie Bold</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/mandira-bedi-showing-her-sexy-bare-back.html">Mandira bedi showing her sexy bare back</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/esha-deols-sexy-deep-naval-hq-scan.html">Esha deol's sexy Deep Naval-HQ Scan</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/aishwarya-rai-with-atal-bihari-bajpayee.html">Aishwarya rai with Atal bihari bajpayee</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/priyanka-chopra-without-make-up.html">Priyanka chopra without make up</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/caption-this.html">Caption This!</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/gorgeous-soha-ali-khan-and-sonali.html">Gorgeous Soha ali khan and Sonali bendre on Indian...</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/dev-d-movie-poster.html">Dev D Movie Poster</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/priyanka-chopras-sexy-scans-from.html">Priyanka chopra's sexy Scans from Stardust</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/isabella-kaif-sexy-cleavage-show.html">Isabella kaif sexy cleavage show</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/curvy-deepika-padukone-in-saree-latest.html">Curvy Deepika padukone in Saree-latest wallpaper</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/gorgeous-freida-pinto-at-directors.html">Gorgeous Freida pinto at the Directors Guild of A...</A> 
+<LI><A href="http://masalababes.blogspot.com/2009/02/amisha-patels-best-exposure-ever.html">Amisha patel's best exposure ever</A> </LI></UL></LI></UL>
+<UL>
+<LI class="archivedate collapsed"><A class=toggle href="http://masalababes.blogspot.com/?widgetType=BlogArchive&amp;widgetId=BlogArchive1&amp;action=toggle&amp;dir=open&amp;toggle=MONTHLY-1230748200000&amp;toggleopen=MONTHLY-1233426600000"><SPAN class=zippy>? </SPAN></A><A class=post-count-link href="http://masalababes.blogspot.com/2009_01_01_archive.html">January</A> (<SPAN class=post-count>313</SPAN>) </LI></UL></LI></UL>
+<UL>
+<LI class="archivedate collapsed"><A class=toggle href="http://masalababes.blogspot.com/?widgetType=BlogArchive&amp;widgetId=BlogArchive1&amp;action=toggle&amp;dir=open&amp;toggle=YEARLY-1199125800000&amp;toggleopen=MONTHLY-1233426600000"><SPAN class=zippy>? </SPAN></A><A class=post-count-link href="http://masalababes.blogspot.com/search?updated-min=2008-01-01T00%3A00%3A00%2B05%3A30&amp;updated-max=2009-01-01T00%3A00%3A00%2B05%3A30&amp;max-results=50">2008</A> (<SPAN class=post-count>3025</SPAN>) 
+<UL>
+<LI class="archivedate collapsed"><A class=toggle href="http://masalababes.blogspot.com/?widgetType=BlogArchive&amp;widgetId=BlogArchive1&amp;action=toggle&amp;dir=open&amp;toggle=MONTHLY-1228069800000&amp;toggleopen=MONTHLY-1233426600000"><SPAN class=zippy>? </SPAN></A><A class=post-count-link href="http://masalababes.blogspot.com/2008_12_01_archive.html">December</A> (<SPAN class=post-count>330</SPAN>) </LI></UL>
+<UL>
+<LI class="archivedate collapsed"><A class=toggle href="http://masalababes.blogspot.com/?widgetType=BlogArchive&amp;widgetId=BlogArchive1&amp;action=toggle&amp;dir=open&amp;toggle=MONTHLY-1225477800000&amp;toggleopen=MONTHLY-1233426600000"><SPAN class=zippy>? </SPAN></A><A class=post-count-link href="http://masalababes.blogspot.com/2008_11_01_archive.html">November</A> (<SPAN class=post-count>312</SPAN>) </LI></UL>
+<UL>
+<LI class="archivedate collapsed"><A class=toggle href="http://masalababes.blogspot.com/?widgetType=BlogArchive&amp;widgetId=BlogArchive1&amp;action=toggle&amp;dir=open&amp;toggle=MONTHLY-1222799400000&amp;toggleopen=MONTHLY-1233426600000"><SPAN class=zippy>? </SPAN></A><A class=post-count-link href="http://masalababes.blogspot.com/2008_10_01_archive.html">October</A> (<SPAN class=post-count>256</SPAN>) </LI></UL>
+<UL>
+<LI class="archivedate collapsed"><A class=toggle href="http://masalababes.blogspot.com/?widgetType=BlogArchive&amp;widgetId=BlogArchive1&amp;action=toggle&amp;dir=open&amp;toggle=MONTHLY-1220207400000&amp;toggleopen=MONTHLY-1233426600000"><SPAN class=zippy>? </SPAN></A><A class=post-count-link href="http://masalababes.blogspot.com/2008_09_01_archive.html">September</A> (<SPAN class=post-count>303</SPAN>) </LI></UL>
+<UL>
+<LI class="archivedate collapsed"><A class=toggle href="http://masalababes.blogspot.com/?widgetType=BlogArchive&amp;widgetId=BlogArchive1&amp;action=toggle&amp;dir=open&amp;toggle=MONTHLY-1217529000000&amp;toggleopen=MONTHLY-1233426600000"><SPAN class=zippy>? </SPAN></A><A class=post-count-link href="http://masalababes.blogspot.com/2008_08_01_archive.html">August</A> (<SPAN class=post-count>300</SPAN>) </LI></UL>
+<UL>
+<LI class="archivedate collapsed"><A class=toggle href="http://masalababes.blogspot.com/?widgetType=BlogArchive&amp;widgetId=BlogArchive1&amp;action=toggle&amp;dir=open&amp;toggle=MONTHLY-1214850600000&amp;toggleopen=MONTHLY-1233426600000"><SPAN class=zippy>? </SPAN></A><A class=post-count-link href="http://masalababes.blogspot.com/2008_07_01_archive.html">July</A> (<SPAN class=post-count>194</SPAN>) </LI></UL>
+<UL>
+<LI class="archivedate collapsed"><A class=toggle href="http://masalababes.blogspot.com/?widgetType=BlogArchive&amp;widgetId=BlogArchive1&amp;action=toggle&amp;dir=open&amp;toggle=MONTHLY-1212258600000&amp;toggleopen=MONTHLY-1233426600000"><SPAN class=zippy>? </SPAN></A><A class=post-count-link href="http://masalababes.blogspot.com/2008_06_01_archive.html">June</A> (<SPAN class=post-count>276</SPAN>) </LI></UL>
+<UL>
+<LI class="archivedate collapsed"><A class=toggle href="http://masalababes.blogspot.com/?widgetType=BlogArchive&amp;widgetId=BlogArchive1&amp;action=toggle&amp;dir=open&amp;toggle=MONTHLY-1209580200000&amp;toggleopen=MONTHLY-1233426600000"><SPAN class=zippy>? </SPAN></A><A class=post-count-link href="http://masalababes.blogspot.com/2008_05_01_archive.html">May</A> (<SPAN class=post-count>338</SPAN>) </LI></UL>
+<UL>
+<LI class="archivedate collapsed"><A class=toggle href="http://masalababes.blogspot.com/?widgetType=BlogArchive&amp;widgetId=BlogArchive1&amp;action=toggle&amp;dir=open&amp;toggle=MONTHLY-1206988200000&amp;toggleopen=MONTHLY-1233426600000"><SPAN class=zippy>? </SPAN></A><A class=post-count-link href="http://masalababes.blogspot.com/2008_04_01_archive.html">April</A> (<SPAN class=post-count>200</SPAN>) </LI></UL>
+<UL>
+<LI class="archivedate collapsed"><A class=toggle href="http://masalababes.blogspot.com/?widgetType=BlogArchive&amp;widgetId=BlogArchive1&amp;action=toggle&amp;dir=open&amp;toggle=MONTHLY-1204309800000&amp;toggleopen=MONTHLY-1233426600000"><SPAN class=zippy>? </SPAN></A><A class=post-count-link href="http://masalababes.blogspot.com/2008_03_01_archive.html">March</A> (<SPAN class=post-count>201</SPAN>) </LI></UL>
+<UL>
+<LI class="archivedate collapsed"><A class=toggle href="http://masalababes.blogspot.com/?widgetType=BlogArchive&amp;widgetId=BlogArchive1&amp;action=toggle&amp;dir=open&amp;toggle=MONTHLY-1201804200000&amp;toggleopen=MONTHLY-1233426600000"><SPAN class=zippy>? </SPAN></A><A class=post-count-link href="http://masalababes.blogspot.com/2008_02_01_archive.html">February</A> (<SPAN class=post-count>180</SPAN>) </LI></UL>
+<UL>
+<LI class="archivedate collapsed"><A class=toggle href="http://masalababes.blogspot.com/?widgetType=BlogArchive&amp;widgetId=BlogArchive1&amp;action=toggle&amp;dir=open&amp;toggle=MONTHLY-1199125800000&amp;toggleopen=MONTHLY-1233426600000"><SPAN class=zippy>? </SPAN></A><A class=post-count-link href="http://masalababes.blogspot.com/2008_01_01_archive.html">January</A> (<SPAN class=post-count>135</SPAN>) </LI></UL></LI></UL>
+<UL>
+<LI class="archivedate collapsed"><A class=toggle href="http://masalababes.blogspot.com/?widgetType=BlogArchive&amp;widgetId=BlogArchive1&amp;action=toggle&amp;dir=open&amp;toggle=YEARLY-1167589800000&amp;toggleopen=MONTHLY-1233426600000"><SPAN class=zippy>? </SPAN></A><A class=post-count-link href="http://masalababes.blogspot.com/search?updated-min=2007-01-01T00%3A00%3A00%2B05%3A30&amp;updated-max=2008-01-01T00%3A00%3A00%2B05%3A30&amp;max-results=50">2007</A> (<SPAN class=post-count>1215</SPAN>) 
+<UL>
+<LI class="archivedate collapsed"><A class=toggle href="http://masalababes.blogspot.com/?widgetType=BlogArchive&amp;widgetId=BlogArchive1&amp;action=toggle&amp;dir=open&amp;toggle=MONTHLY-1196447400000&amp;toggleopen=MONTHLY-1233426600000"><SPAN class=zippy>? </SPAN></A><A class=post-count-link href="http://masalababes.blogspot.com/2007_12_01_archive.html">December</A> (<SPAN class=post-count>139</SPAN>) </LI></UL>
+<UL>
+<LI class="archivedate collapsed"><A class=toggle href="http://masalababes.blogspot.com/?widgetType=BlogArchive&amp;widgetId=BlogArchive1&amp;action=toggle&amp;dir=open&amp;toggle=MONTHLY-1193855400000&amp;toggleopen=MONTHLY-1233426600000"><SPAN class=zippy>? </SPAN></A><A class=post-count-link href="http://masalababes.blogspot.com/2007_11_01_archive.html">November</A> (<SPAN class=post-count>83</SPAN>) </LI></UL>
+<UL>
+<LI class="archivedate collapsed"><A class=toggle href="http://masalababes.blogspot.com/?widgetType=BlogArchive&amp;widgetId=BlogArchive1&amp;action=toggle&amp;dir=open&amp;toggle=MONTHLY-1191177000000&amp;toggleopen=MONTHLY-1233426600000"><SPAN class=zippy>? </SPAN></A><A class=post-count-link href="http://masalababes.blogspot.com/2007_10_01_archive.html">October</A> (<SPAN class=post-count>89</SPAN>) </LI></UL>
+<UL>
+<LI class="archivedate collapsed"><A class=toggle href="http://masalababes.blogspot.com/?widgetType=BlogArchive&amp;widgetId=BlogArchive1&amp;action=toggle&amp;dir=open&amp;toggle=MONTHLY-1188585000000&amp;toggleopen=MONTHLY-1233426600000"><SPAN class=zippy>? </SPAN></A><A class=post-count-link href="http://masalababes.blogspot.com/2007_09_01_archive.html">September</A> (<SPAN class=post-count>55</SPAN>) </LI></UL>
+<UL>
+<LI class="archivedate collapsed"><A class=toggle href="http://masalababes.blogspot.com/?widgetType=BlogArchive&amp;widgetId=BlogArchive1&amp;action=toggle&amp;dir=open&amp;toggle=MONTHLY-1185906600000&amp;toggleopen=MONTHLY-1233426600000"><SPAN class=zippy>? </SPAN></A><A class=post-count-link href="http://masalababes.blogspot.com/2007_08_01_archive.html">August</A> (<SPAN class=post-count>116</SPAN>) </LI></UL>
+<UL>
+<LI class="archivedate collapsed"><A class=toggle href="http://masalababes.blogspot.com/?widgetType=BlogArchive&amp;widgetId=BlogArchive1&amp;action=toggle&amp;dir=open&amp;toggle=MONTHLY-1183228200000&amp;toggleopen=MONTHLY-1233426600000"><SPAN class=zippy>? </SPAN></A><A class=post-count-link href="http://masalababes.blogspot.com/2007_07_01_archive.html">July</A> (<SPAN class=post-count>122</SPAN>) </LI></UL>
+<UL>
+<LI class="archivedate collapsed"><A class=toggle href="http://masalababes.blogspot.com/?widgetType=BlogArchive&amp;widgetId=BlogArchive1&amp;action=toggle&amp;dir=open&amp;toggle=MONTHLY-1180636200000&amp;toggleopen=MONTHLY-1233426600000"><SPAN class=zippy>? </SPAN></A><A class=post-count-link href="http://masalababes.blogspot.com/2007_06_01_archive.html">June</A> (<SPAN class=post-count>81</SPAN>) </LI></UL>
+<UL>
+<LI class="archivedate collapsed"><A class=toggle href="http://masalababes.blogspot.com/?widgetType=BlogArchive&amp;widgetId=BlogArchive1&amp;action=toggle&amp;dir=open&amp;toggle=MONTHLY-1177957800000&amp;toggleopen=MONTHLY-1233426600000"><SPAN class=zippy>? </SPAN></A><A class=post-count-link href="http://masalababes.blogspot.com/2007_05_01_archive.html">May</A> (<SPAN class=post-count>89</SPAN>) </LI></UL>
+<UL>
+<LI class="archivedate collapsed"><A class=toggle href="http://masalababes.blogspot.com/?widgetType=BlogArchive&amp;widgetId=BlogArchive1&amp;action=toggle&amp;dir=open&amp;toggle=MONTHLY-1175365800000&amp;toggleopen=MONTHLY-1233426600000"><SPAN class=zippy>? </SPAN></A><A class=post-count-link href="http://masalababes.blogspot.com/2007_04_01_archive.html">April</A> (<SPAN class=post-count>85</SPAN>) </LI></UL>
+<UL>
+<LI class="archivedate collapsed"><A class=toggle href="http://masalababes.blogspot.com/?widgetType=BlogArchive&amp;widgetId=BlogArchive1&amp;action=toggle&amp;dir=open&amp;toggle=MONTHLY-1172687400000&amp;toggleopen=MONTHLY-1233426600000"><SPAN class=zippy>? </SPAN></A><A class=post-count-link href="http://masalababes.blogspot.com/2007_03_01_archive.html">March</A> (<SPAN class=post-count>136</SPAN>) </LI></UL>
+<UL>
+<LI class="archivedate collapsed"><A class=toggle href="http://masalababes.blogspot.com/?widgetType=BlogArchive&amp;widgetId=BlogArchive1&amp;action=toggle&amp;dir=open&amp;toggle=MONTHLY-1170268200000&amp;toggleopen=MONTHLY-1233426600000"><SPAN class=zippy>? </SPAN></A><A class=post-count-link href="http://masalababes.blogspot.com/2007_02_01_archive.html">February</A> (<SPAN class=post-count>154</SPAN>) </LI></UL>
+<UL>
+<LI class="archivedate collapsed"><A class=toggle href="http://masalababes.blogspot.com/?widgetType=BlogArchive&amp;widgetId=BlogArchive1&amp;action=toggle&amp;dir=open&amp;toggle=MONTHLY-1167589800000&amp;toggleopen=MONTHLY-1233426600000"><SPAN class=zippy>? </SPAN></A><A class=post-count-link href="http://masalababes.blogspot.com/2007_01_01_archive.html">January</A> (<SPAN class=post-count>66</SPAN>) </LI></UL></LI></UL></DIV></DIV>
+<DIV class=clear></DIV><SPAN class=widget-item-control><SPAN class="item-control blog-admin"><A class=quickedit title=Edit onclick='return _WidgetManager._PopupConfig(document.getElementById("BlogArchive1"));' href="http://www.blogger.com/rearrange?blogID=5877773710011776982&amp;widgetType=BlogArchive&amp;widgetId=BlogArchive1&amp;action=editWidget" target=configBlogArchive1><IMG height=18 alt="" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width=18> </A></SPAN></SPAN>
+<DIV class=clear></DIV></DIV></DIV></DIV></DIV>
+<DIV id=main-wrapper>
+<DIV class="main section" id=main>
+<DIV class="widget HTML" id=HTML3>
+<DIV class=widget-content>
+<SCRIPT src="http://forum.dreamydonkey.com/blogger/scrolling_blogger_posts.js"> </SCRIPT>
+
+<SCRIPT> var nMaxPosts = 15; var sBgColor; var nWidth; var nScrollDelay = 175; var sDirection="left"; var sOpenLinkLocation="N"; var sBulletChar="&#8226;"; </SCRIPT>
+
+<SCRIPT src="http://masalababes.blogspot.com/feeds/posts/default?alt=json-in-script&amp;callback=RecentPostsScrollerv2"> </SCRIPT>
+
+<MARQUEE onmouseover=this.stop(); onmouseout=this.start(); scrollDelay=175 width="100%" <b>0,3061,-latest-classic-shots.html" target=_blank>Aishwarya rai's latest classic shots</A>&nbsp;&nbsp;<B>0,3061,p://masalababes.blogspot.com/2009/02/tanushree-dutta-sizzles-on-maxim-feb.html" target=_blank>Tanushree dutta sizzles on Maxim Feb Issue</A>&nbsp;&nbsp;<B>0,3061,"item-control blog-admin"><A class=quickedit title=Edit onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML3"));' href="http://www.blogger.com/rearrange?blogID=5877773710011776982&amp;widgetType=HTML&amp;widgetId=HTML3&amp;action=editWidget" target=configHTML3><IMG height=18 alt="" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width=18> </A></SPAN></SPAN>
+<DIV class=clear></DIV></DIV>
+<DIV class="widget Feed" id=Feed1>
+<H2>babesandhunks</H2>
+<DIV class=widget-content>
+<UL id=Feed1_feedItemListDisplay>
+<LI><SPAN class=item-title><A href="http://masalababesandhunks.blogspot.com/2009/02/anushka-bare-back.html">Anushka bare back </A></SPAN>
+<LI><SPAN class=item-title><A href="http://masalababesandhunks.blogspot.com/2009/02/katrina-kaifs-best-ass-shot-ever.html">Katrina kaif's best ASS shot ever </A></SPAN>
+<LI><SPAN class=item-title><A href="http://masalababesandhunks.blogspot.com/2009/02/shilpa-shetty-sexy-ass-crack.html">Shilpa shetty sexy Ass crack </A></SPAN>
+<LI><SPAN class=item-title><A href="http://masalababesandhunks.blogspot.com/2009/02/sexy-mandira-bedi-flaunting-deep.html">Sexy Mandira bedi flaunting deep cleavage </A></SPAN>
+<LI><SPAN class=item-title><A href="http://masalababesandhunks.blogspot.com/2009/02/vidya-balan-sexy-shapely-ass.html">Vidya balan sexy shapely ASS </A></SPAN></LI></UL>
+<DIV class=clear></DIV><SPAN class=widget-item-control><SPAN class="item-control blog-admin"><A class=quickedit title=Edit onclick='return _WidgetManager._PopupConfig(document.getElementById("Feed1"));' href="http://www.blogger.com/rearrange?blogID=5877773710011776982&amp;widgetType=Feed&amp;widgetId=Feed1&amp;action=editWidget" target=configFeed1><IMG height=18 alt="" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width=18> </A></SPAN></SPAN>
+<DIV class=clear></DIV></DIV></DIV>
+<DIV class="widget HTML" id=HTML2>
+<DIV class=widget-content><A href="http://masalababesandhunks.blogspot.com/2009/01/amisha-patel-topless-amisha-patel.html" target=_blank><IMG src="http://i40.tinypic.com/2r40bbb.jpg" width=320></A> </DIV>
+<DIV class=clear></DIV><SPAN class=widget-item-control><SPAN class="item-control blog-admin"><A class=quickedit title=Edit onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML2"));' href="http://www.blogger.com/rearrange?blogID=5877773710011776982&amp;widgetType=HTML&amp;widgetId=HTML2&amp;action=editWidget" target=configHTML2><IMG height=18 alt="" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width=18> </A></SPAN></SPAN>
+<DIV class=clear></DIV></DIV>
+<DIV class="widget Blog" id=Blog1>
+<DIV class=blog-posts>
+<H2 class=date-header>Sunday, February 08, 2009</H2>
+<DIV class="post uncustomized-post-template"><A name=3894161187256520372></A>
+<H3 class=post-title><A href="http://masalababes.blogspot.com/2009/02/bipasha-basu-looking-ordinary-without.html">Bipasha basu looking ordinary without make up</A> </H3>
+<DIV class=post-header-line-1></DIV>
+<DIV class=post-body>
+<P>
+<DIV class=separator style="CLEAR: both; TEXT-ALIGN: center"><A style="MARGIN-LEFT: 1em; MARGIN-RIGHT: 1em" href="http://i40.tinypic.com/mmygw6.jpg" imageanchor="1"><IMG height=348 src="http://i40.tinypic.com/mmygw6.jpg" width=420 border=0></A></DIV>Here is she with make up and all<BR><A style="MARGIN-LEFT: 1em; MARGIN-RIGHT: 1em" href="http://www.janubaba.com/wallpapers/images/wp_Janubaba_bipashabasu_20066219737HJY5JF.jpg" imageanchor="1"><IMG height=315 src="http://www.janubaba.com/wallpapers/images/wp_Janubaba_bipashabasu_20066219737HJY5JF.jpg" width=420 border=0></A> <SPAN><A style="FONT-WEIGHT: bold; COLOR: #0000ff; TEXT-ALIGN: right; TEXT-DECORATION: none" href="http://masalababes.blogspot.com/2009/02/bipasha-basu-looking-ordinary-without.html">Read more on this article...</A> </SPAN>
+<P></P>
+<DIV style="CLEAR: both"></DIV></DIV>
+<DIV class=post-footer>
+<P class="post-footer-line post-footer-line-1"><SPAN class=post-author>Posted by admin </SPAN><SPAN class=post-timestamp>at <A class=timestamp-link title="permanent link" href="http://masalababes.blogspot.com/2009/02/bipasha-basu-looking-ordinary-without.html">Sunday, February 08, 2009</A> </SPAN><SPAN class=post-comment-link><A class=comment-link onclick="" href="https://www.blogger.com/comment.g?blogID=5877773710011776982&amp;postID=3894161187256520372">1 comments</A> </SPAN><SPAN class="post-backlinks post-comment-link"><A class=comment-link href="http://masalababes.blogspot.com/2009/02/bipasha-basu-looking-ordinary-without.html#links">Links to this post</A> </SPAN><SPAN class=post-icons><SPAN class=item-action><A title="Email Post" href="http://www.blogger.com/email-post.g?blogID=5877773710011776982&amp;postID=3894161187256520372"><SPAN class=email-post-icon>&nbsp;</SPAN> </A></SPAN><SPAN class="item-control blog-admin pid-2109137598"><A title="Edit Post" href="http://www.blogger.com/post-edit.g?blogID=5877773710011776982&amp;postID=3894161187256520372"><SPAN class=quick-edit-icon>&nbsp;</SPAN> </A></SPAN></SPAN></P>
+<P class="post-footer-line post-footer-line-2"><SPAN class=post-labels>Labels: <A href="http://masalababes.blogspot.com/search/label/bipasha%20basu" rel=tag>bipasha basu</A>, <A href="http://masalababes.blogspot.com/search/label/without%20make%20up" rel=tag>without make up</A> </SPAN></P>
+<P class="post-footer-line post-footer-line-3"></P></DIV></DIV>
+<DIV class="post uncustomized-post-template"><A name=4465487580765348330></A>
+<H3 class=post-title><A href="http://masalababes.blogspot.com/2009/02/gorgeous-asin-graces-cover-of-filmfare.html">Gorgeous Asin graces the cover of Filmfare</A> </H3>
+<DIV class=post-header-line-1></DIV>
+<DIV class=post-body>
+<P>
+<DIV class=separator style="CLEAR: both; TEXT-ALIGN: center"><A style="MARGIN-LEFT: 1em; MARGIN-RIGHT: 1em" href="http://1.bp.blogspot.com/_IWn1UTEW0RY/SY7jzIcMu-I/AAAAAAAAPjE/VpjcLasOtuk/s1600-h/7c84_1.JPG" imageanchor="1"><IMG src="http://1.bp.blogspot.com/_IWn1UTEW0RY/SY7jzIcMu-I/AAAAAAAAPjE/VpjcLasOtuk/s320/7c84_1.JPG" border=0></A><A style="MARGIN-LEFT: 1em; MARGIN-RIGHT: 1em" href="http://4.bp.blogspot.com/_IWn1UTEW0RY/SY7j0VECV9I/AAAAAAAAPjM/i8496p2jcJg/s1600-h/fe21_1.JPG" imageanchor="1"><IMG src="http://4.bp.blogspot.com/_IWn1UTEW0RY/SY7j0VECV9I/AAAAAAAAPjM/i8496p2jcJg/s400/fe21_1.JPG" border=0></A></DIV><SPAN><A style="FONT-WEIGHT: bold; COLOR: #0000ff; TEXT-ALIGN: right; TEXT-DECORATION: none" href="http://masalababes.blogspot.com/2009/02/gorgeous-asin-graces-cover-of-filmfare.html">Read more on this article...</A> </SPAN>
+<P></P>
+<DIV style="CLEAR: both"></DIV></DIV>
+<DIV class=post-footer>
+<P class="post-footer-line post-footer-line-1"><SPAN class=post-author>Posted by admin </SPAN><SPAN class=post-timestamp>at <A class=timestamp-link title="permanent link" href="http://masalababes.blogspot.com/2009/02/gorgeous-asin-graces-cover-of-filmfare.html">Sunday, February 08, 2009</A> </SPAN><SPAN class=post-comment-link><A class=comment-link onclick="" href="https://www.blogger.com/comment.g?blogID=5877773710011776982&amp;postID=4465487580765348330">0 comments</A> </SPAN><SPAN class="post-backlinks post-comment-link"><A class=comment-link href="http://masalababes.blogspot.com/2009/02/gorgeous-asin-graces-cover-of-filmfare.html#links">Links to this post</A> </SPAN><SPAN class=post-icons><SPAN class=item-action><A title="Email Post" href="http://www.blogger.com/email-post.g?blogID=5877773710011776982&amp;postID=4465487580765348330"><SPAN class=email-post-icon>&nbsp;</SPAN> </A></SPAN><SPAN class="item-control blog-admin pid-2109137598"><A title="Edit Post" href="http://www.blogger.com/post-edit.g?blogID=5877773710011776982&amp;postID=4465487580765348330"><SPAN class=quick-edit-icon>&nbsp;</SPAN> </A></SPAN></SPAN></P>
+<P class="post-footer-line post-footer-line-2"><SPAN class=post-labels>Labels: <A href="http://masalababes.blogspot.com/search/label/asin" rel=tag>asin</A>, <A href="http://masalababes.blogspot.com/search/label/magazine%20scans" rel=tag>magazine scans</A> </SPAN></P>
+<P class="post-footer-line post-footer-line-3"></P></DIV></DIV>
+<DIV class="post uncustomized-post-template"><A name=6498474545328684864></A>
+<H3 class=post-title><A href="http://masalababes.blogspot.com/2009/02/mugdha-godse-graces-cover-of-stuff.html">Mugdha Godse graces the cover of Stuff</A> </H3>
+<DIV class=post-header-line-1></DIV>
+<DIV class=post-body>
+<P>
+<DIV class=separator style="CLEAR: both; TEXT-ALIGN: center"><A style="MARGIN-LEFT: 1em; MARGIN-RIGHT: 1em" href="http://images.bollywoodhungama.com/img/feature/09/feb/godse1.jpg" imageanchor="1"><IMG height=420 src="http://images.bollywoodhungama.com/img/feature/09/feb/godse1.jpg" width=310 border=0></A></DIV><SPAN><A style="FONT-WEIGHT: bold; COLOR: #0000ff; TEXT-ALIGN: right; TEXT-DECORATION: none" href="http://masalababes.blogspot.com/2009/02/mugdha-godse-graces-cover-of-stuff.html">Read more on this article...</A> </SPAN>
+<P></P>
+<DIV style="CLEAR: both"></DIV></DIV>
+<DIV class=post-footer>
+<P class="post-footer-line post-footer-line-1"><SPAN class=post-author>Posted by admin </SPAN><SPAN class=post-timestamp>at <A class=timestamp-link title="permanent link" href="http://masalababes.blogspot.com/2009/02/mugdha-godse-graces-cover-of-stuff.html">Sunday, February 08, 2009</A> </SPAN><SPAN class=post-comment-link><A class=comment-link onclick="" href="https://www.blogger.com/comment.g?blogID=5877773710011776982&amp;postID=6498474545328684864">0 comments</A> </SPAN><SPAN class="post-backlinks post-comment-link"><A class=comment-link href="http://masalababes.blogspot.com/2009/02/mugdha-godse-graces-cover-of-stuff.html#links">Links to this post</A> </SPAN><SPAN class=post-icons><SPAN class=item-action><A title="Email Post" href="http://www.blogger.com/email-post.g?blogID=5877773710011776982&amp;postID=6498474545328684864"><SPAN class=email-post-icon>&nbsp;</SPAN> </A></SPAN><SPAN class="item-control blog-admin pid-2109137598"><A title="Edit Post" href="http://www.blogger.com/post-edit.g?blogID=5877773710011776982&amp;postID=6498474545328684864"><SPAN class=quick-edit-icon>&nbsp;</SPAN> </A></SPAN></SPAN></P>
+<P class="post-footer-line post-footer-line-2"><SPAN class=post-labels>Labels: <A href="http://masalababes.blogspot.com/search/label/magazine%20scans" rel=tag>magazine scans</A>, <A href="http://masalababes.blogspot.com/search/label/Mughda%20godse" rel=tag>Mughda godse</A> </SPAN></P>
+<P class="post-footer-line post-footer-line-3"></P></DIV></DIV>
+<DIV class="post uncustomized-post-template"><A name=2489325497138527699></A>
+<H3 class=post-title><A href="http://masalababes.blogspot.com/2009/02/10-hot-women-wed-love-to-date.html">10 hot women we'd love to date</A> </H3>
+<DIV class=post-header-line-1></DIV>
+<DIV class=post-body>
+<P>
+<DIV align=center><FONT size=3>Don't fret over the married ones here are 10 singletons waiting for you</FONT><BR><BR><BR><BR><IMG alt="" src="http://buzz18.in.com/media/slideshow/2009/Feb/genila_single_0402_550x422.jpg" border=0><BR><BR><BR><BR>Genelia<BR><BR><BR><BR>She stole our hearts as Aditi in <I>Jaane Tu0,3061, now that she has, we can't get our eyes off her. Genelia 0,3061,. Asin Thottumkal is number eight on our list of hottest single women in Bollywood we'd like to date</DIV><BR>
+<DIV align=center><IMG alt="" src="http://buzz18.in.com/media/slideshow/2009/Feb/amrita_single_0402_550x422.jpg" border=0></DIV><BR><BR>
+<DIV align=center>Amrita Rao</DIV><BR><BR>
+<DIV align=center>As the boys here say it's a guy thing 0,3061, laugh out the denials. But hey, we're quite optimistic here and hell we want to go out on a date with this <I>desi girl</I>!<BR><BR></DIV><BR>
+<DIV align=center><IMG alt="" src="http://buzz18.in.com/media/slideshow/2009/Feb/katrina_single_0402_550x422.jpg" border=0><BR><BR><BR><BR>Katrina Kaif<BR><BR><BR><BR>Okay, let's get this out of the way 0,3061,ke the hottest of men weak in their knees. Incidentally Isha Sharvani is also quite an accomplished gymnast. And gymnasts we're told make for interesting, er, dancers. So there! Isha Sharvani is number four on our list of hottest single women in Bollywood we'd like to date.<BR><BR></DIV><BR>
+<DIV align=center><IMG alt="" src="http://buzz18.in.com/media/slideshow/2009/Feb/freida_single_0402_550x422.gif" border=0><BR><BR><BR><BR>Freida Pinto<BR><BR><BR><BR>Maybe it's the yellow <I>dupatta</I> in the film. But we haven't yet been able to take our eyes of this stunning girl from Mumbai's Bandra suburb after we watched her in <I>Slumdog Millionaire</I>. There's a scene where Salim laughs at Jamal for still harbouring feelings for Latika (played by Freida) even after all those years. Honestly Salim, you have no idea what you let go off, brother! And now that we're given to believe that Ms Pinto is single again, we're queuing up outside her house with yellow flowers and another of those yellow <I>dupattas</I>.<BR><BR><BR></DIV><BR>
+<DIV align=center><IMG alt="" src="http://buzz18.in.com/media/slideshow/2009/Feb/anushka_single_0402_550x422.jpg" border=0><BR><BR><BR><BR>Anushka Sharma<BR><BR><BR><BR>Taani<I>ji</I> is arguably every Indian middle class man's dream come true. She doesn't mind chucking the patiala-kameez set for a figure-hugging gym costume and boy does she pack a punch teaching Shah Rukh Khan to dance! For doing all this all so convincingly Anushka Sharma is number two on our list of the hot women who we're dying to date!<BR><BR></DIV><BR>
+<DIV align=center><IMG alt="" src="http://buzz18.in.com/media/slideshow/2009/Feb/sonam_single_0402_550x422.jpg" border=0><BR><BR><BR><BR>Sonam Kapoor<BR><BR><BR><BR>We dare not call her Masakali! But hey, it's not such a bad name after all. She made her debut dressed in acres and acres of clothing but still had us begging for more. Sonam's next, <I>Delhi-6</I> is up for release and she doesn't seem to have dressed any differently. For making Indian costumes look oh-so-elegant, Sonam Kapoor is our number one hottest single woman in Bollywood we'd like to date!<BR><BR></DIV>Via:Buzz18<BR></SPAN><SPAN><A style="FONT-WEIGHT: bold; COLOR: #0000ff; TEXT-ALIGN: right; TEXT-DECORATION: none" href="http://masalababes.blogspot.com/2009/02/10-hot-women-wed-love-to-date.html">Read more on this article...</A> </SPAN>
+<P></P>
+<DIV style="CLEAR: both"></DIV></DIV>
+<DIV class=post-footer>
+<P class="post-footer-line post-footer-line-1"><SPAN class=post-author>Posted by admin </SPAN><SPAN class=post-timestamp>at <A class=timestamp-link title="permanent link" href="http://masalababes.blogspot.com/2009/02/10-hot-women-wed-love-to-date.html">Sunday, February 08, 2009</A> </SPAN><SPAN class=post-comment-link><A class=comment-link onclick="" href="https://www.blogger.com/comment.g?blogID=5877773710011776982&amp;postID=2489325497138527699">0 comments</A> </SPAN><SPAN class="post-backlinks post-comment-link"><A class=comment-link href="http://masalababes.blogspot.com/2009/02/10-hot-women-wed-love-to-date.html#links">Links to this post</A> </SPAN><SPAN class=post-icons><SPAN class=item-action><A title="Email Post" href="http://www.blogger.com/email-post.g?blogID=5877773710011776982&amp;postID=2489325497138527699"><SPAN class=email-post-icon>&nbsp;</SPAN> </A></SPAN><SPAN class="item-control blog-admin pid-2109137598"><A title="Edit Post" href="http://www.blogger.com/post-edit.g?blogID=5877773710011776982&amp;postID=2489325497138527699"><SPAN class=quick-edit-icon>&nbsp;</SPAN> </A></SPAN></SPAN></P>
+<P class="post-footer-line post-footer-line-2"><SPAN class=post-labels>Labels: <A href="http://masalababes.blogspot.com/search/label/special%20feature" rel=tag>special feature</A> </SPAN></P>
+<P class="post-footer-line post-footer-line-3"></P></DIV></DIV>
+<DIV class="post uncustomized-post-template"><A name=1493949254681054817></A>
+<H3 class=post-title><A href="http://masalababes.blogspot.com/2009/02/aishwarya-rais-latest-classic-shots.html">Aishwarya rai's latest classic shots</A> </H3>
+<DIV class=post-header-line-1></DIV>
+<DIV class=post-body>
+<P>
+<DIV class=separator style="CLEAR: both; TEXT-ALIGN: center"><A style="MARGIN-LEFT: 1em; MARGIN-RIGHT: 1em" href="http://3.bp.blogspot.com/_IWn1UTEW0RY/SY6abHcuvqI/AAAAAAAAPi0/Ot6vBFIzt-0/s1600-h/30-Aishwarya.jpg" imageanchor="1"><IMG src="http://3.bp.blogspot.com/_IWn1UTEW0RY/SY6abHcuvqI/AAAAAAAAPi0/Ot6vBFIzt-0/s320/30-Aishwarya.jpg" border=0></A></DIV><A style="MARGIN-LEFT: 1em; MARGIN-RIGHT: 1em" href="http://3.bp.blogspot.com/_IWn1UTEW0RY/SY6ZXU7JifI/AAAAAAAAPis/gEtApVVCNVA/s1600-h/aish_7_2.jpg" imageanchor="1"><IMG src="http://3.bp.blogspot.com/_IWn1UTEW0RY/SY6ZXU7JifI/AAAAAAAAPis/gEtApVVCNVA/s320/aish_7_2.jpg" border=0></A> <SPAN><A style="FONT-WEIGHT: bold; COLOR: #0000ff; TEXT-ALIGN: right; TEXT-DECORATION: none" href="http://masalababes.blogspot.com/2009/02/aishwarya-rais-latest-classic-shots.html">Read more on this article...</A> </SPAN>
+<P></P>
+<DIV style="CLEAR: both"></DIV></DIV>
+<DIV class=post-footer>
+<P class="post-footer-line post-footer-line-1"><SPAN class=post-author>Posted by admin </SPAN><SPAN class=post-timestamp>at <A class=timestamp-link title="permanent link" href="http://masalababes.blogspot.com/2009/02/aishwarya-rais-latest-classic-shots.html">Sunday, February 08, 2009</A> </SPAN><SPAN class=post-comment-link><A class=comment-link onclick="" href="https://www.blogger.com/comment.g?blogID=5877773710011776982&amp;postID=1493949254681054817">0 comments</A> </SPAN><SPAN class="post-backlinks post-comment-link"><A class=comment-link href="http://masalababes.blogspot.com/2009/02/aishwarya-rais-latest-classic-shots.html#links">Links to this post</A> </SPAN><SPAN class=post-icons><SPAN class=item-action><A title="Email Post" href="http://www.blogger.com/email-post.g?blogID=5877773710011776982&amp;postID=1493949254681054817"><SPAN class=email-post-icon>&nbsp;</SPAN> </A></SPAN><SPAN class="item-control blog-admin pid-2109137598"><A title="Edit Post" href="http://www.blogger.com/post-edit.g?blogID=5877773710011776982&amp;postID=1493949254681054817"><SPAN class=quick-edit-icon>&nbsp;</SPAN> </A></SPAN></SPAN></P>
+<P class="post-footer-line post-footer-line-2"><SPAN class=post-labels>Labels: <A href="http://masalababes.blogspot.com/search/label/aishwarya%20rai" rel=tag>aishwarya rai</A>, <A href="http://masalababes.blogspot.com/search/label/photos%20and%20wallpapers" rel=tag>photos and wallpapers</A> </SPAN></P>
+<P class="post-footer-line post-footer-line-3"></P></DIV></DIV>
+<DIV class="post uncustomized-post-template"><A name=8944740785920511287></A>
+<H3 class=post-title><A href="http://masalababes.blogspot.com/2009/02/spottedaishwarya-rai-and-abhishek.html">Spotted:Aishwarya Rai and Abhishek Bachchan leaving mumbai</A> </H3>
+<DIV class=post-header-line-1></DIV>
+<DIV class=post-body>
+<P><A style="MARGIN-LEFT: 1em; MARGIN-RIGHT: 1em" href="http://2.bp.blogspot.com/_IWn1UTEW0RY/SY6ZG_w2nWI/AAAAAAAAPiM/cHvnbIOTMVY/s1600-h/003_0.jpg" imageanchor="1"><IMG src="http://2.bp.blogspot.com/_IWn1UTEW0RY/SY6ZG_w2nWI/AAAAAAAAPiM/cHvnbIOTMVY/s400/003_0.jpg" border=0></A><BR><SPAN class=fullpost><BR><A style="MARGIN-LEFT: 1em; MARGIN-RIGHT: 1em" href="http://1.bp.blogspot.com/_IWn1UTEW0RY/SY6ZJmL6VMI/AAAAAAAAPiU/mDNwFWsRdak/s1600-h/002_5.preview.jpg" imageanchor="1"><IMG src="http://1.bp.blogspot.com/_IWn1UTEW0RY/SY6ZJmL6VMI/AAAAAAAAPiU/mDNwFWsRdak/s400/002_5.preview.jpg" border=0></A><A style="MARGIN-LEFT: 1em; MARGIN-RIGHT: 1em" href="http://2.bp.blogspot.com/_IWn1UTEW0RY/SY6ZLs8LjbI/AAAAAAAAPic/oOmFvkD0k24/s1600-h/001_9.preview.jpg" imageanchor="1"><IMG src="http://2.bp.blogspot.com/_IWn1UTEW0RY/SY6ZLs8LjbI/AAAAAAAAPic/oOmFvkD0k24/s400/001_9.preview.jpg" border=0></A><A style="MARGIN-LEFT: 1em; MARGIN-RIGHT: 1em" href="http://2.bp.blogspot.com/_IWn1UTEW0RY/SY6ZNgwXrFI/AAAAAAAAPik/J9-6vnlDseo/s1600-h/00_3.preview.jpg" imageanchor="1"><IMG src="http://2.bp.blogspot.com/_IWn1UTEW0RY/SY6ZNgwXrFI/AAAAAAAAPik/J9-6vnlDseo/s400/00_3.preview.jpg" border=0></A><BR></SPAN><SPAN><A style="FONT-WEIGHT: bold; COLOR: #0000ff; TEXT-ALIGN: right; TEXT-DECORATION: none" href="http://masalababes.blogspot.com/2009/02/spottedaishwarya-rai-and-abhishek.html">Read more on this article...</A> </SPAN></P>
+<DIV style="CLEAR: both"></DIV></DIV>
+<DIV class=post-footer>
+<P class="post-footer-line post-footer-line-1"><SPAN class=post-author>Posted by admin </SPAN><SPAN class=post-timestamp>at <A class=timestamp-link title="permanent link" href="http://masalababes.blogspot.com/2009/02/spottedaishwarya-rai-and-abhishek.html">Sunday, February 08, 2009</A> </SPAN><SPAN class=post-comment-link><A class=comment-link onclick="" href="https://www.blogger.com/comment.g?blogID=5877773710011776982&amp;postID=8944740785920511287">0 comments</A> </SPAN><SPAN class="post-backlinks post-comment-link"><A class=comment-link href="http://masalababes.blogspot.com/2009/02/spottedaishwarya-rai-and-abhishek.html#links">Links to this post</A> </SPAN><SPAN class=post-icons><SPAN class=item-action><A title="Email Post" href="http://www.blogger.com/email-post.g?blogID=5877773710011776982&amp;postID=8944740785920511287"><SPAN class=email-post-icon>&nbsp;</SPAN> </A></SPAN><SPAN class="item-control blog-admin pid-2109137598"><A title="Edit Post" href="http://www.blogger.com/post-edit.g?blogID=5877773710011776982&amp;postID=8944740785920511287"><SPAN class=quick-edit-icon>&nbsp;</SPAN> </A></SPAN></SPAN></P>
+<P class="post-footer-line post-footer-line-2"><SPAN class=post-labels>Labels: <A href="http://masalababes.blogspot.com/search/label/aishwarya%20rai" rel=tag>aishwarya rai</A>, <A href="http://masalababes.blogspot.com/search/label/real%20life%20pictures" rel=tag>real life pictures</A> </SPAN></P>
+<P class="post-footer-line post-footer-line-3"></P></DIV></DIV>
+<H2 class=date-header>Saturday, February 07, 2009</H2>
+<DIV class="post uncustomized-post-template"><A name=5121956047061737148></A>
+<H3 class=post-title><A href="http://masalababes.blogspot.com/2009/02/bipasha-basu-looking-gorgeous-in-new.html">Bipasha basu looking gorgeous in new Gili Jewellery Ads</A> </H3>
+<DIV class=post-header-line-1></DIV>
+<DIV class=post-body>
+<P>
+<DIV class=separator style="CLEAR: both; TEXT-ALIGN: center"><A style="MARGIN-LEFT: 1em; MARGIN-RIGHT: 1em" href="http://2.bp.blogspot.com/_IWn1UTEW0RY/SY3NLhNgTmI/AAAAAAAAPh0/vQqROC86IMU/s1600-h/07_02_2009_101_005.jpg" imageanchor="1"><IMG src="http://2.bp.blogspot.com/_IWn1UTEW0RY/SY3NLhNgTmI/AAAAAAAAPh0/vQqROC86IMU/s320/07_02_2009_101_005.jpg" border=0></A><A style="MARGIN-LEFT: 1em; MARGIN-RIGHT: 1em" href="http://2.bp.blogspot.com/_IWn1UTEW0RY/SY3NSmEY58I/AAAAAAAAPh8/1K-_geRESrY/s1600-h/bips567.jpg" imageanchor="1"><IMG src="http://2.bp.blogspot.com/_IWn1UTEW0RY/SY3NSmEY58I/AAAAAAAAPh8/1K-_geRESrY/s320/bips567.jpg" border=0></A><A style="MARGIN-LEFT: 1em; MARGIN-RIGHT: 1em" href="http://2.bp.blogspot.com/_IWn1UTEW0RY/SY3NVuy4gNI/AAAAAAAAPiE/ilV3G34erfI/s1600-h/bips546.jpg" imageanchor="1"><IMG src="http://2.bp.blogspot.com/_IWn1UTEW0RY/SY3NVuy4gNI/AAAAAAAAPiE/ilV3G34erfI/s320/bips546.jpg" border=0></A></DIV><SPAN><A style="FONT-WEIGHT: bold; COLOR: #0000ff; TEXT-ALIGN: right; TEXT-DECORATION: none" href="http://masalababes.blogspot.com/2009/02/bipasha-basu-looking-gorgeous-in-new.html">Read more on this article...</A> </SPAN>
+<P></P>
+<DIV style="CLEAR: both"></DIV></DIV>
+<DIV class=post-footer>
+<P class="post-footer-line post-footer-line-1"><SPAN class=post-author>Posted by admin </SPAN><SPAN class=post-timestamp>at <A class=timestamp-link title="permanent link" href="http://masalababes.blogspot.com/2009/02/bipasha-basu-looking-gorgeous-in-new.html">Saturday, February 07, 2009</A> </SPAN><SPAN class=post-comment-link><A class=comment-link onclick="" href="https://www.blogger.com/comment.g?blogID=5877773710011776982&amp;postID=5121956047061737148">1 comments</A> </SPAN><SPAN class="post-backlinks post-comment-link"><A class=comment-link href="http://masalababes.blogspot.com/2009/02/bipasha-basu-looking-gorgeous-in-new.html#links">Links to this post</A> </SPAN><SPAN class=post-icons><SPAN class=item-action><A title="Email Post" href="http://www.blogger.com/email-post.g?blogID=5877773710011776982&amp;postID=5121956047061737148"><SPAN class=email-post-icon>&nbsp;</SPAN> </A></SPAN><SPAN class="item-control blog-admin pid-2109137598"><A title="Edit Post" href="http://www.blogger.com/post-edit.g?blogID=5877773710011776982&amp;postID=5121956047061737148"><SPAN class=quick-edit-icon>&nbsp;</SPAN> </A></SPAN></SPAN></P>
+<P class="post-footer-line post-footer-line-2"><SPAN class=post-labels>Labels: <A href="http://masalababes.blogspot.com/search/label/ads" rel=tag>ads</A>, <A href="http://masalababes.blogspot.com/search/label/bipasha%20%20basu" rel=tag>bipasha basu</A> </SPAN></P>
+<P class="post-footer-line post-footer-line-3"></P></DIV></DIV>
+<DIV class="post uncustomized-post-template"><A name=3340081195911432503></A>
+<H3 class=post-title><A href="http://masalababes.blogspot.com/2009/02/hot-kangana-ranaut-at-success-party-of.html">Hot Kangana ranaut at the success party of Raaz-TMC</A> </H3>
+<DIV class=post-header-line-1></DIV>
+<DIV class=post-body>
+<P><A style="MARGIN-LEFT: 1em; MARGIN-RIGHT: 1em" href="http://i.indiafm.com/memories/09/raaztmcsuccessparty/still1.jpg" imageanchor="1"><IMG height=281 src="http://i.indiafm.com/memories/09/raaztmcsuccessparty/still1.jpg" width=420 border=0></A><BR><SPAN class=fullpost><BR>
+<DIV class=separator style="CLEAR: both; TEXT-ALIGN: center"><A style="MARGIN-LEFT: 1em; MARGIN-RIGHT: 1em" href="http://i.indiafm.com/memories/09/raaztmcsuccessparty/still2.jpg" imageanchor="1"><IMG height=281 src="http://i.indiafm.com/memories/09/raaztmcsuccessparty/still2.jpg" width=420 border=0></A><A style="MARGIN-LEFT: 1em; MARGIN-RIGHT: 1em" href="http://i.indiafm.com/memories/09/raaztmcsuccessparty/still4.jpg" imageanchor="1"><IMG height=420 src="http://i.indiafm.com/memories/09/raaztmcsuccessparty/still4.jpg" width=281 border=0></A><A style="MARGIN-LEFT: 1em; MARGIN-RIGHT: 1em" href="http://i.indiafm.com/memories/09/raaztmcsuccessparty/still5.jpg" imageanchor="1"><IMG height=420 src="http://i.indiafm.com/memories/09/raaztmcsuccessparty/still5.jpg" width=281 border=0></A><A style="MARGIN-LEFT: 1em; MARGIN-RIGHT: 1em" href="http://i.indiafm.com/memories/09/raaztmcsuccessparty/still8.jpg" imageanchor="1"><IMG height=281 src="http://i.indiafm.com/memories/09/raaztmcsuccessparty/still8.jpg" width=420 border=0></A><A style="MARGIN-LEFT: 1em; MARGIN-RIGHT: 1em" href="http://i.indiafm.com/memories/09/raaztmcsuccessparty/still9.jpg" imageanchor="1"><IMG height=420 src="http://i.indiafm.com/memories/09/raaztmcsuccessparty/still9.jpg" width=281 border=0></A><A style="MARGIN-LEFT: 1em; MARGIN-RIGHT: 1em" href="http://i.indiafm.com/memories/09/raaztmcsuccessparty/still10.jpg" imageanchor="1"><IMG height=420 src="http://i.indiafm.com/memories/09/raaztmcsuccessparty/still10.jpg" width=281 border=0></A><A style="MARGIN-LEFT: 1em; MARGIN-RIGHT: 1em" href="http://i.indiafm.com/memories/09/raaztmcsuccessparty/still11.jpg" imageanchor="1"><IMG height=281 src="http://i.indiafm.com/memories/09/raaztmcsuccessparty/still11.jpg" width=420 border=0></A><A style="MARGIN-LEFT: 1em; MARGIN-RIGHT: 1em" href="http://i.indiafm.com/memories/09/raaztmcsuccessparty/still12.jpg" imageanchor="1"><IMG height=420 src="http://i.indiafm.com/memories/09/raaztmcsuccessparty/still12.jpg" width=281 border=0></A><A style="MARGIN-LEFT: 1em; MARGIN-RIGHT: 1em" href="http://www.bharatstudent.com/ng7uvideo/bs/gallery/normal/events/bw/2009/feb/raaz2successparty/raaz2successparty_017.jpg" imageanchor="1"><IMG height=342 src="http://www.bharatstudent.com/ng7uvideo/bs/gallery/normal/events/bw/2009/feb/raaz2successparty/raaz2successparty_017.jpg" width=420 border=0></A><A style="MARGIN-LEFT: 1em; MARGIN-RIGHT: 1em" href="http://www.bharatstudent.com/ng7uvideo/bs/gallery/normal/events/bw/2009/feb/raaz2successparty/raaz2successparty_003.jpg" imageanchor="1"><IMG height=420 src="http://www.bharatstudent.com/ng7uvideo/bs/gallery/normal/events/bw/2009/feb/raaz2successparty/raaz2successparty_003.jpg" width=279 border=0></A></DIV></SPAN><SPAN><A style="FONT-WEIGHT: bold; COLOR: #0000ff; TEXT-ALIGN: right; TEXT-DECORATION: none" href="http://masalababes.blogspot.com/2009/02/hot-kangana-ranaut-at-success-party-of.html">Read more on this article...</A> </SPAN>
+<P></P>
+<DIV style="CLEAR: both"></DIV></DIV>
+<DIV class=post-footer>
+<P class="post-footer-line post-footer-line-1"><SPAN class=post-author>Posted by admin </SPAN><SPAN class=post-timestamp>at <A class=timestamp-link title="permanent link" href="http://masalababes.blogspot.com/2009/02/hot-kangana-ranaut-at-success-party-of.html">Saturday, February 07, 2009</A> </SPAN><SPAN class=post-comment-link><A class=comment-link onclick="" href="https://www.blogger.com/comment.g?blogID=5877773710011776982&amp;postID=3340081195911432503">0 comments</A> </SPAN><SPAN class="post-backlinks post-comment-link"><A class=comment-link href="http://masalababes.blogspot.com/2009/02/hot-kangana-ranaut-at-success-party-of.html#links">Links to this post</A> </SPAN><SPAN class=post-icons><SPAN class=item-action><A title="Email Post" href="http://www.blogger.com/email-post.g?blogID=5877773710011776982&amp;postID=3340081195911432503"><SPAN class=email-post-icon>&nbsp;</SPAN> </A></SPAN><SPAN class="item-control blog-admin pid-2109137598"><A title="Edit Post" href="http://www.blogger.com/post-edit.g?blogID=5877773710011776982&amp;postID=3340081195911432503"><SPAN class=quick-edit-icon>&nbsp;</SPAN> </A></SPAN></SPAN></P>
+<P class="post-footer-line post-footer-line-2"><SPAN class=post-labels>Labels: <A href="http://masalababes.blogspot.com/search/label/kangana%20ranaut" rel=tag>kangana ranaut</A>, <A href="http://masalababes.blogspot.com/search/label/parties%20and%20events" rel=tag>parties and events</A> </SPAN></P>
+<P class="post-footer-line post-footer-line-3"></P></DIV></DIV>
+<DIV class="post uncustomized-post-template"><A name=1445056312250559920></A>
+<H3 class=post-title><A href="http://masalababes.blogspot.com/2009/02/bipasha-and-neil-hot-look-in-aa-dekhen.html">Bipasha and Neil hot look in 'Aa dekhen Zara'</A> </H3>
+<DIV class=post-header-line-1></DIV>
+<DIV class=post-body>
+<P>The film is about Ray Acharya (Neil Nitin Mukesh), a struggling photographer who has nothing going for him. And then he inherits a very 'special' camera from his grandfather which changes his life in a way that he could not have imagined in his wildest dreams. Take a look!<A style="MARGIN-LEFT: 1em; MARGIN-RIGHT: 1em" href="http://www.filmicafe.com/admin/movie-photo/images/still2-1388225613.jpg" imageanchor="1"><IMG height=279 src="http://www.filmicafe.com/admin/movie-photo/images/still2-1388225613.jpg" width=420 border=0></A><BR><SPAN class=fullpost><BR>
+<DIV class=separator style="CLEAR: both; TEXT-ALIGN: center"><A style="MARGIN-LEFT: 1em; MARGIN-RIGHT: 1em" href="http://www.filmicafe.com/admin/movie-photo/images/still3-1931193847.jpg" imageanchor="1"><IMG height=279 src="http://www.filmicafe.com/admin/movie-photo/images/still3-1931193847.jpg" width=420 border=0></A><A style="MARGIN-LEFT: 1em; MARGIN-RIGHT: 1em" href="http://www.filmicafe.com/admin/movie-photo/images/still4-1877536113.jpg" imageanchor="1"><IMG height=279 src="http://www.filmicafe.com/admin/movie-photo/images/still4-1877536113.jpg" width=420 border=0></A></DIV></SPAN><SPAN><A style="FONT-WEIGHT: bold; COLOR: #0000ff; TEXT-ALIGN: right; TEXT-DECORATION: none" href="http://masalababes.blogspot.com/2009/02/bipasha-and-neil-hot-look-in-aa-dekhen.html">Read more on this article...</A> </SPAN>
+<P></P>
+<DIV style="CLEAR: both"></DIV></DIV>
+<DIV class=post-footer>
+<P class="post-footer-line post-footer-line-1"><SPAN class=post-author>Posted by admin </SPAN><SPAN class=post-timestamp>at <A class=timestamp-link title="permanent link" href="http://masalababes.blogspot.com/2009/02/bipasha-and-neil-hot-look-in-aa-dekhen.html">Saturday, February 07, 2009</A> </SPAN><SPAN class=post-comment-link><A class=comment-link onclick="" href="https://www.blogger.com/comment.g?blogID=5877773710011776982&amp;postID=1445056312250559920">0 comments</A> </SPAN><SPAN class="post-backlinks post-comment-link"><A class=comment-link href="http://masalababes.blogspot.com/2009/02/bipasha-and-neil-hot-look-in-aa-dekhen.html#links">Links to this post</A> </SPAN><SPAN class=post-icons><SPAN class=item-action><A title="Email Post" href="http://www.blogger.com/email-post.g?blogID=5877773710011776982&amp;postID=1445056312250559920"><SPAN class=email-post-icon>&nbsp;</SPAN> </A></SPAN><SPAN class="item-control blog-admin pid-2109137598"><A title="Edit Post" href="http://www.blogger.com/post-edit.g?blogID=5877773710011776982&amp;postID=1445056312250559920"><SPAN class=quick-edit-icon>&nbsp;</SPAN> </A></SPAN></SPAN></P>
+<P class="post-footer-line post-footer-line-2"><SPAN class=post-labels>Labels: <A href="http://masalababes.blogspot.com/search/label/bipasha%20basu" rel=tag>bipasha basu</A> </SPAN></P>
+<P class="post-footer-line post-footer-line-3"></P></DIV></DIV>
+<DIV class="post uncustomized-post-template"><A name=5557058786128047336></A>
+<H3 class=post-title><A href="http://masalababes.blogspot.com/2009/02/kareena-kapoor-looking-stunning-in.html">Kareena kapoor looking stunning in trans Saree</A> </H3>
+<DIV class=post-header-line-1></DIV>
+<DIV class=post-body>
+<P>Kareena kapoor at the birthday bash of Ekta kapoor<BR><A style="MARGIN-LEFT: 1em; MARGIN-RIGHT: 1em" href="http://www.filmicafe.com/admin/event-images/images/150-1265874473.JPG" imageanchor="1"><IMG height=420 src="http://www.filmicafe.com/admin/event-images/images/150-1265874473.JPG" width=281 border=0></A><BR><SPAN class=fullpost><BR>
+<DIV class=separator style="CLEAR: both; TEXT-ALIGN: center"><A style="MARGIN-LEFT: 1em; MARGIN-RIGHT: 1em" href="http://www.filmicafe.com/admin/event-images/images/146-501307655.JPG" imageanchor="1"><IMG height=420 src="http://www.filmicafe.com/admin/event-images/images/146-501307655.JPG" width=281 border=0></A><A style="MARGIN-LEFT: 1em; MARGIN-RIGHT: 1em" href="http://www.filmicafe.com/admin/event-images/images/062-476760863.JPG" imageanchor="1"><IMG height=420 src="http://www.filmicafe.com/admin/event-images/images/062-476760863.JPG" width=281 border=0></A><A style="MARGIN-LEFT: 1em; MARGIN-RIGHT: 1em" href="http://www.filmicafe.com/admin/event-images/images/060-152690264.JPG" imageanchor="1"><IMG height=420 src="http://www.filmicafe.com/admin/event-images/images/060-152690264.JPG" width=281 border=0></A><A style="MARGIN-LEFT: 1em; MARGIN-RIGHT: 1em" href="http://www.filmicafe.com/admin/event-images/images/058-2116582417.JPG" imageanchor="1"><IMG height=420 src="http://www.filmicafe.com/admin/event-images/images/058-2116582417.JPG" width=281 border=0></A><A style="MARGIN-LEFT: 1em; MARGIN-RIGHT: 1em" href="http://www.filmicafe.com/admin/event-images/images/059-1854651104.JPG" imageanchor="1"><IMG height=420 src="http://www.filmicafe.com/admin/event-images/images/059-1854651104.JPG" width=281 border=0></A><A style="MARGIN-LEFT: 1em; MARGIN-RIGHT: 1em" href="http://www.filmicafe.com/admin/event-images/images/061-210839038.JPG" imageanchor="1"><IMG height=420 src="http://www.filmicafe.com/admin/event-images/images/061-210839038.JPG" width=281 border=0></A><A style="MARGIN-LEFT: 1em; MARGIN-RIGHT: 1em" href="http://www.filmicafe.com/admin/event-images/images/esdsds-1550722960.jpg" imageanchor="1"><IMG height=281 src="http://www.filmicafe.com/admin/event-images/images/esdsds-1550722960.jpg" width=420 border=0></A><A style="MARGIN-LEFT: 1em; MARGIN-RIGHT: 1em" href="http://www.filmicafe.com/admin/event-images/images/063-979636451.JPG" imageanchor="1"><IMG height=420 src="http://www.filmicafe.com/admin/event-images/images/063-979636451.JPG" width=281 border=0></A><A style="MARGIN-LEFT: 1em; MARGIN-RIGHT: 1em" href="http://www.filmicafe.com/admin/event-images/images/148-1990110056.JPG" imageanchor="1"><IMG height=420 src="http://www.filmicafe.com/admin/event-images/images/148-1990110056.JPG" width=281 border=0></A></DIV></SPAN><SPAN><A style="FONT-WEIGHT: bold; COLOR: #0000ff; TEXT-ALIGN: right; TEXT-DECORATION: none" href="http://masalababes.blogspot.com/2009/02/kareena-kapoor-looking-stunning-in.html">Read more on this article...</A> </SPAN>
+<P></P>
+<DIV style="CLEAR: both"></DIV></DIV>
+<DIV class=post-footer>
+<P class="post-footer-line post-footer-line-1"><SPAN class=post-author>Posted by admin </SPAN><SPAN class=post-timestamp>at <A class=timestamp-link title="permanent link" href="http://masalababes.blogspot.com/2009/02/kareena-kapoor-looking-stunning-in.html">Saturday, February 07, 2009</A> </SPAN><SPAN class=post-comment-link><A class=comment-link onclick="" href="https://www.blogger.com/comment.g?blogID=5877773710011776982&amp;postID=5557058786128047336">0 comments</A> </SPAN><SPAN class="post-backlinks post-comment-link"><A class=comment-link href="http://masalababes.blogspot.com/2009/02/kareena-kapoor-looking-stunning-in.html#links">Links to this post</A> </SPAN><SPAN class=post-icons><SPAN class=item-action><A title="Email Post" href="http://www.blogger.com/email-post.g?blogID=5877773710011776982&amp;postID=5557058786128047336"><SPAN class=email-post-icon>&nbsp;</SPAN> </A></SPAN><SPAN class="item-control blog-admin pid-2109137598"><A title="Edit Post" href="http://www.blogger.com/post-edit.g?blogID=5877773710011776982&amp;postID=5557058786128047336"><SPAN class=quick-edit-icon>&nbsp;</SPAN> </A></SPAN></SPAN></P>
+<P class="post-footer-line post-footer-line-2"><SPAN class=post-labels>Labels: <A href="http://masalababes.blogspot.com/search/label/kareena%20kapoor" rel=tag>kareena kapoor</A>, <A href="http://masalababes.blogspot.com/search/label/parties%20and%20events" rel=tag>parties and events</A> </SPAN></P>
+<P class="post-footer-line post-footer-line-3"></P></DIV></DIV></DIV>
+<DIV class=blog-pager id=blog-pager><SPAN id=blog-pager-older-link><A class=blog-pager-older-link id=Blog1_blog-pager-older-link title="Older Posts" href="http://masalababes.blogspot.com/search?updated-max=2009-02-07T11%3A02%3A00%2B05%3A30&amp;max-results=10">Older Posts</A> </SPAN></DIV>
+<DIV class=clear></DIV>
+<DIV class=blog-feeds>
+<DIV class=feed-links>Subscribe to: <A class=feed-link href="http://masalababes.blogspot.com/feeds/posts/default" target=_blank type=application/atom+xml>Posts (Atom)</A> </DIV></DIV></DIV></DIV></DIV>
+<DIV class=sidebar-wrapper>
+<DIV class="sidebar section" id=sidebar2>
+<DIV class="widget Followers" id=Followers1>
+<H2 class=title>Followers (24)</H2>
+<DIV id=Followers1-wrapper>
+<DIV class="follow-this profile-link item-control following-follow-this"><A href='javascript:_FollowersView._openPopup("http://www.blogger.com/follow-blog.g?blogID=5877773710011776982");'>Follow this blog </A></DIV>
+<DIV class="follow-this profile-link item-control following-stop-following-this"><A href='javascript:_FollowersView._openPopup("http://www.blogger.com/follow-blog.g?blogID=5877773710011776982");'>Stop following </A></DIV>
+<DIV class=followers-grid>
+<DIV class=follower><A title="Nitin Khanna" href="http://www.blogger.com/profile/18084629227088770153" rel=nofollow><IMG class=follower-img height=28 alt="Nitin Khanna" onerror='this.onerror=null;this.src="http://www.blogger.com/img/anon-follower.png";' src="http://img1.blogblog.com/img/blank.gif" width=28 onload='setAttributeOnload(this, "src", "http://img2.blogblog.com/img/anon-follower_28.png")'> </A></DIV>
+<DIV class=follower><A title=niru href="http://www.blogger.com/profile/06805717557577765892" rel=nofollow><IMG class=follower-img height=28 alt=niru onerror='this.onerror=null;this.src="http://www.blogger.com/img/anon-follower.png";' src="http://img1.blogblog.com/img/blank.gif" width=28 onload='setAttributeOnload(this, "src", "http://img2.blogblog.com/img/anon-follower_28.png")'> </A></DIV>
+<DIV class=follower><A title=ViVa href="http://www.blogger.com/profile/01462075372195471281" rel=nofollow><IMG class=follower-img height=28 alt=ViVa onerror='this.onerror=null;this.src="http://www.blogger.com/img/anon-follower.png";' src="http://img1.blogblog.com/img/blank.gif" width=28 onload='setAttributeOnload(this, "src", "http://3.bp.blogspot.com/_vRZc8NgS-4o/SXodeesVHPI/AAAAAAAAAAo/5dHyOsPPqpE/S28/Lamborghini%2B(29).jpg")'> </A></DIV>
+<DIV class=follower><A title=riya href="http://www.blogger.com/profile/07940404084964164792" rel=nofollow><IMG class=follower-img height=28 alt=riya onerror='this.onerror=null;this.src="http://www.blogger.com/img/anon-follower.png";' src="http://img1.blogblog.com/img/blank.gif" width=28 onload='setAttributeOnload(this, "src", "http://3.bp.blogspot.com/_eFBxT01cHiM/SXodWiyg83I/AAAAAAAAAAc/jgirZrlOFnI/S28/2910100495_d062afd55f.jpg")'> </A></DIV>
+<DIV class=follower><A title=U.D href="http://www.blogger.com/profile/16902486556488188096" rel=nofollow><IMG class=follower-img height=28 alt=U.D onerror='this.onerror=null;this.src="http://www.blogger.com/img/anon-follower.png";' src="http://img1.blogblog.com/img/blank.gif" width=28 onload='setAttributeOnload(this, "src", "http://img2.blogblog.com/img/anon-follower_28.png")'> </A></DIV>
+<DIV class=follower><A title=suren href="http://www.blogger.com/profile/13044279619305859002" rel=nofollow><IMG class=follower-img height=28 alt=suren onerror='this.onerror=null;this.src="http://www.blogger.com/img/anon-follower.png";' src="http://img1.blogblog.com/img/blank.gif" width=28 onload='setAttributeOnload(this, "src", "http://img2.blogblog.com/img/anon-follower_28.png")'> </A></DIV>
+<DIV class=follower><A title=nandu href="http://www.blogger.com/profile/09678277235123219957" rel=nofollow><IMG class=follower-img height=28 alt=nandu onerror='this.onerror=null;this.src="http://www.blogger.com/img/anon-follower.png";' src="http://img1.blogblog.com/img/blank.gif" width=28 onload='setAttributeOnload(this, "src", "http://img2.blogblog.com/img/anon-follower_28.png")'> </A></DIV>
+<DIV class=follower><A title="Periwinkle Bubbles" href="http://www.blogger.com/profile/11271694931247561582" rel=nofollow><IMG class=follower-img height=28 alt="Periwinkle Bubbles" onerror='this.onerror=null;this.src="http://www.blogger.com/img/anon-follower.png";' src="http://img1.blogblog.com/img/blank.gif" width=28 onload='setAttributeOnload(this, "src", "http://1.bp.blogspot.com/_3QTBCxFtv0g/SPfQGzT8CPI/AAAAAAAAIT0/O4TiRxw11Ck/S28/sgd313.jpg")'> </A></DIV>
+<DIV class=follower><A title=Rohit href="http://www.blogger.com/profile/06240710092244653833" rel=nofollow><IMG class=follower-img height=28 alt=Rohit onerror='this.onerror=null;this.src="http://www.blogger.com/img/anon-follower.png";' src="http://img1.blogblog.com/img/blank.gif" width=28 onload='setAttributeOnload(this, "src", "http://img2.blogblog.com/img/anon-follower_28.png")'> </A></DIV>
+<DIV class=follower><A title=django999 href="http://www.blogger.com/profile/09582310284285857081" rel=nofollow><IMG class=follower-img height=28 alt=django999 onerror='this.onerror=null;this.src="http://www.blogger.com/img/anon-follower.png";' src="http://img1.blogblog.com/img/blank.gif" width=28 onload='setAttributeOnload(this, "src", "http://img2.blogblog.com/img/anon-follower_28.png")'> </A></DIV>
+<DIV class=follower><A title=JAY href="http://www.blogger.com/profile/01827461388125835614" rel=nofollow><IMG class=follower-img height=28 alt=JAY onerror='this.onerror=null;this.src="http://www.blogger.com/img/anon-follower.png";' src="http://img1.blogblog.com/img/blank.gif" width=28 onload='setAttributeOnload(this, "src", "http://img2.blogblog.com/img/anon-follower_28.png")'> </A></DIV>
+<DIV class=follower><A title=Kandarp href="http://www.blogger.com/profile/12893005676307694540" rel=nofollow><IMG class=follower-img height=28 alt=Kandarp onerror='this.onerror=null;this.src="http://www.blogger.com/img/anon-follower.png";' src="http://img1.blogblog.com/img/blank.gif" width=28 onload='setAttributeOnload(this, "src", "http://img2.blogblog.com/img/anon-follower_28.png")'> </A></DIV>
+<DIV class=follower><A title=AshishMehra2010 href="http://www.blogger.com/profile/03355211131808463127" rel=nofollow><IMG class=follower-img height=28 alt=AshishMehra2010 onerror='this.onerror=null;this.src="http://www.blogger.com/img/anon-follower.png";' src="http://img1.blogblog.com/img/blank.gif" width=28 onload='setAttributeOnload(this, "src", "http://img2.blogblog.com/img/anon-follower_28.png")'> </A></DIV>
+<DIV class=follower><A title=Dolphin href="http://www.blogger.com/profile/00366357651736766630" rel=nofollow><IMG class=follower-img height=28 alt=Dolphin onerror='this.onerror=null;this.src="http://www.blogger.com/img/anon-follower.png";' src="http://img1.blogblog.com/img/blank.gif" width=28 onload='setAttributeOnload(this, "src", "http://img2.blogblog.com/img/anon-follower_28.png")'> </A></DIV>
+<DIV class=follower><A title=untamedballs href="http://www.blogger.com/profile/04306467324139069754" rel=nofollow><IMG class=follower-img height=28 alt=untamedballs onerror='this.onerror=null;this.src="http://www.blogger.com/img/anon-follower.png";' src="http://img1.blogblog.com/img/blank.gif" width=28 onload='setAttributeOnload(this, "src", "http://img2.blogblog.com/img/anon-follower_28.png")'> </A></DIV>
+<DIV class=follower><A title=gurudon href="http://www.blogger.com/profile/10381576654988844037" rel=nofollow><IMG class=follower-img height=28 alt=gurudon onerror='this.onerror=null;this.src="http://www.blogger.com/img/anon-follower.png";' src="http://img1.blogblog.com/img/blank.gif" width=28 onload='setAttributeOnload(this, "src", "http://img2.blogblog.com/img/anon-follower_28.png")'> </A></DIV>
+<DIV class=follower><A title=pie href="http://www.blogger.com/profile/01989852468881894311" rel=nofollow><IMG class=follower-img height=28 alt=pie onerror='this.onerror=null;this.src="http://www.blogger.com/img/anon-follower.png";' src="http://img1.blogblog.com/img/blank.gif" width=28 onload='setAttributeOnload(this, "src", "http://img2.blogblog.com/img/anon-follower_28.png")'> </A></DIV>
+<DIV class=follower><A title=onlyfor href="http://www.blogger.com/profile/13963854548425251385" rel=nofollow><IMG class=follower-img height=28 alt=onlyfor onerror='this.onerror=null;this.src="http://www.blogger.com/img/anon-follower.png";' src="http://img1.blogblog.com/img/blank.gif" width=28 onload='setAttributeOnload(this, "src", "http://img2.blogblog.com/img/anon-follower_28.png")'> </A></DIV>
+<DIV class=clear></DIV></DIV>
+<DIV class="followers-canvas profile-link">24 Followers <SPAN class="item-control following-not-admin"><A href="http://www.blogger.com/followers.g?blogID=5877773710011776982">View All </A></SPAN><SPAN class="item-control blog-admin"><A href="http://www.blogger.com/manage-followers.g?blogID=5877773710011776982">Manage </A></SPAN></DIV>
+<DIV class=clear></DIV><SPAN class=widget-item-control><SPAN class="item-control blog-admin"><A class=quickedit title=Edit onclick='return _WidgetManager._PopupConfig(document.getElementById("Followers1"));' href="http://www.blogger.com/rearrange?blogID=5877773710011776982&amp;widgetType=Followers&amp;widgetId=Followers1&amp;action=editWidget" target=configFollowers1><IMG height=18 alt="" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width=18> </A></SPAN></SPAN>
+<DIV class=clear></DIV></DIV></DIV>
+<DIV class="widget Label" id=Label1>
+<H2>Labels</H2>
+<DIV class=widget-content>
+<UL>
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/photos%20and%20wallpapers">photos and wallpapers </A><SPAN dir=ltr>(310)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/parties%20and%20events">parties and events </A><SPAN dir=ltr>(200)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/cleavage">cleavage </A><SPAN dir=ltr>(194)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/bikini">bikini </A><SPAN dir=ltr>(175)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/kareena%20kapoor">kareena kapoor </A><SPAN dir=ltr>(148)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/magazine%20scans">magazine scans </A><SPAN dir=ltr>(146)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/aishwarya%20rai">aishwarya rai </A><SPAN dir=ltr>(140)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/katrina%20kaif">katrina kaif </A><SPAN dir=ltr>(127)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/priyanka%20chopra">priyanka chopra </A><SPAN dir=ltr>(119)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/magazine%20cover">magazine cover </A><SPAN dir=ltr>(108)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Deepika%20padukone">Deepika padukone </A><SPAN dir=ltr>(104)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/international%20celeb">international celeb </A><SPAN dir=ltr>(99)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/captures">captures </A><SPAN dir=ltr>(98)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/special%20feature">special feature </A><SPAN dir=ltr>(91)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/shilpa%20shetty">shilpa shetty </A><SPAN dir=ltr>(87)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/bipasha%20basu">bipasha basu </A><SPAN dir=ltr>(85)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Celina%20jaitley">Celina jaitley </A><SPAN dir=ltr>(77)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/amisha%20patel">amisha patel </A><SPAN dir=ltr>(71)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/maxim">maxim </A><SPAN dir=ltr>(70)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/riya%20sen">riya sen </A><SPAN dir=ltr>(65)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/controversial%20shot">controversial shot </A><SPAN dir=ltr>(58)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/mallika%20sherawat">mallika sherawat </A><SPAN dir=ltr>(57)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/desi%20model">desi model </A><SPAN dir=ltr>(55)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/swimwear">swimwear </A><SPAN dir=ltr>(54)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/amrita%20rao">amrita rao </A><SPAN dir=ltr>(53)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/upskirt">upskirt </A><SPAN dir=ltr>(53)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/vidya%20balan">vidya balan </A><SPAN dir=ltr>(53)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/video">video </A><SPAN dir=ltr>(50)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/photoshoot">photoshoot </A><SPAN dir=ltr>(49)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/tv%20star">tv star </A><SPAN dir=ltr>(49)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/shriya%20saran">shriya saran </A><SPAN dir=ltr>(46)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/saree">saree </A><SPAN dir=ltr>(44)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sonam%20kapoor">sonam kapoor </A><SPAN dir=ltr>(44)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Topless">Topless </A><SPAN dir=ltr>(43)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/rare%20pictures">rare pictures </A><SPAN dir=ltr>(43)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/neha%20dhupia">neha dhupia </A><SPAN dir=ltr>(42)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/masala%20news">masala news </A><SPAN dir=ltr>(41)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sania%20mirza">sania mirza </A><SPAN dir=ltr>(38)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/kim%20sharma">kim sharma </A><SPAN dir=ltr>(37)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/kangana%20ranaut">kangana ranaut </A><SPAN dir=ltr>(36)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/preity%20zinta">preity zinta </A><SPAN dir=ltr>(36)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/tanushree%20dutta">tanushree dutta </A><SPAN dir=ltr>(36)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/soha%20ali%20khan">soha ali khan </A><SPAN dir=ltr>(35)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/amrita%20arora">amrita arora </A><SPAN dir=ltr>(34)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/asin">asin </A><SPAN dir=ltr>(34)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sexy%20legs">sexy legs </A><SPAN dir=ltr>(34)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/calendar">calendar </A><SPAN dir=ltr>(33)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sonal%20chauhan">sonal chauhan </A><SPAN dir=ltr>(33)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sexy%20ass">sexy ass </A><SPAN dir=ltr>(32)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Poster">Poster </A><SPAN dir=ltr>(31)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sameera%20reddy">sameera reddy </A><SPAN dir=ltr>(31)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/hansika%20motwani">hansika motwani </A><SPAN dir=ltr>(30)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/hot%20photoshoot">hot photoshoot </A><SPAN dir=ltr>(30)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/kajol">kajol </A><SPAN dir=ltr>(30)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/lingerie">lingerie </A><SPAN dir=ltr>(30)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/mandira%20bedi">mandira bedi </A><SPAN dir=ltr>(30)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/rani%20mukherjee">rani mukherjee </A><SPAN dir=ltr>(30)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sherlyn%20chopra">sherlyn chopra </A><SPAN dir=ltr>(30)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/upcoming%20star">upcoming star </A><SPAN dir=ltr>(30)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Gul%20panag">Gul panag </A><SPAN dir=ltr>(28)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/hot%20pictures">hot pictures </A><SPAN dir=ltr>(28)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/minissha%20lamba">minissha lamba </A><SPAN dir=ltr>(28)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/urmila%20mantondkar">urmila mantondkar </A><SPAN dir=ltr>(27)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Fashion%20show">Fashion show </A><SPAN dir=ltr>(25)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/south%20indian%20babe">south indian babe </A><SPAN dir=ltr>(25)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/jia%20khan">jia khan </A><SPAN dir=ltr>(24)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/wallpapers">wallpapers </A><SPAN dir=ltr>(24)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Lara%20Dutta">Lara Dutta </A><SPAN dir=ltr>(23)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/ayesha%20takia">ayesha takia </A><SPAN dir=ltr>(23)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/aarti%20chabaria">aarti chabaria </A><SPAN dir=ltr>(22)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/hot%20babe">hot babe </A><SPAN dir=ltr>(22)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/namitha">namitha </A><SPAN dir=ltr>(22)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/real%20life%20pictures">real life pictures </A><SPAN dir=ltr>(22)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/rare%20picture">rare picture </A><SPAN dir=ltr>(21)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Kim%20kardashian">Kim kardashian </A><SPAN dir=ltr>(20)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/esha%20deol">esha deol </A><SPAN dir=ltr>(20)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/kangana%20renaut">kangana renaut </A><SPAN dir=ltr>(20)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/lip%20lock">lip lock </A><SPAN dir=ltr>(20)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/mona%20chopra">mona chopra </A><SPAN dir=ltr>(20)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/on%20the%20sets">on the sets </A><SPAN dir=ltr>(20)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Sophie%20chaudhry">Sophie chaudhry </A><SPAN dir=ltr>(18)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/isha%20kopikar">isha kopikar </A><SPAN dir=ltr>(18)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/mag%20scans">mag scans </A><SPAN dir=ltr>(18)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/ria%20sen">ria sen </A><SPAN dir=ltr>(18)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/shweta%20salve">shweta salve </A><SPAN dir=ltr>(18)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/yana%20gupta">yana gupta </A><SPAN dir=ltr>(18)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Mughda%20godse">Mughda godse </A><SPAN dir=ltr>(17)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/boobs">boobs </A><SPAN dir=ltr>(17)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/neetu%20chandra">neetu chandra </A><SPAN dir=ltr>(17)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/tulip%20joshi">tulip joshi </A><SPAN dir=ltr>(17)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Actress%20wallpapers">Actress wallpapers </A><SPAN dir=ltr>(16)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/hq%20pics">hq pics </A><SPAN dir=ltr>(16)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/nauheed%20cyrusi">nauheed cyrusi </A><SPAN dir=ltr>(16)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/rakhi%20sawant">rakhi sawant </A><SPAN dir=ltr>(16)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/tabu">tabu </A><SPAN dir=ltr>(16)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/jiah%20khan">jiah khan </A><SPAN dir=ltr>(15)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/koena%20mitra">koena mitra </A><SPAN dir=ltr>(15)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/raima%20sen">raima sen </A><SPAN dir=ltr>(15)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/swimsuit">swimsuit </A><SPAN dir=ltr>(15)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/tanisha">tanisha </A><SPAN dir=ltr>(15)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Dia%20mirza">Dia mirza </A><SPAN dir=ltr>(14)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Malaika%20Arora">Malaika Arora </A><SPAN dir=ltr>(14)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/bare%20back">bare back </A><SPAN dir=ltr>(14)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/desi%20babes">desi babes </A><SPAN dir=ltr>(14)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/karishma%20kapoor">karishma kapoor </A><SPAN dir=ltr>(14)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/malaika%20arora%20khan">malaika arora khan </A><SPAN dir=ltr>(14)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/malliaka%20arora">malliaka arora </A><SPAN dir=ltr>(14)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/nip%20slip">nip slip </A><SPAN dir=ltr>(14)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/nisha%20kothari">nisha kothari </A><SPAN dir=ltr>(14)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/page%203">page 3 </A><SPAN dir=ltr>(14)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/.bikini">.bikini </A><SPAN dir=ltr>(13)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Sophie%20chaudhary">Sophie chaudhary </A><SPAN dir=ltr>(13)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/diya%20mirza">diya mirza </A><SPAN dir=ltr>(13)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/freida%20pinto">freida pinto </A><SPAN dir=ltr>(13)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/milky%20thighs">milky thighs </A><SPAN dir=ltr>(13)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/nandana%20sen">nandana sen </A><SPAN dir=ltr>(13)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sunny%20leone">sunny leone </A><SPAN dir=ltr>(13)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/masala%20pictures">masala pictures </A><SPAN dir=ltr>(12)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/minisha%20lamba">minisha lamba </A><SPAN dir=ltr>(12)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/nayanthara">nayanthara </A><SPAN dir=ltr>(12)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/HQ%20scan">HQ scan </A><SPAN dir=ltr>(11)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/brinda%20parekh">brinda parekh </A><SPAN dir=ltr>(11)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/divya%20dutta">divya dutta </A><SPAN dir=ltr>(11)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/genelia">genelia </A><SPAN dir=ltr>(11)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/lisa%20ray">lisa ray </A><SPAN dir=ltr>(11)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/madhuri%20dixit">madhuri dixit </A><SPAN dir=ltr>(11)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/minnisha%20lamba">minnisha lamba </A><SPAN dir=ltr>(11)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/roshni%20chopra">roshni chopra </A><SPAN dir=ltr>(11)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sonali%20kulkarni">sonali kulkarni </A><SPAN dir=ltr>(11)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Sayali%20bhagat">Sayali bhagat </A><SPAN dir=ltr>(10)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/caption">caption </A><SPAN dir=ltr>(10)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/contest">contest </A><SPAN dir=ltr>(10)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/kashmeera%20shah">kashmeera shah </A><SPAN dir=ltr>(10)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/mona%20lisa">mona lisa </A><SPAN dir=ltr>(10)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/shama%20sikander">shama sikander </A><SPAN dir=ltr>(10)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sports%20star">sports star </A><SPAN dir=ltr>(10)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/trisha">trisha </A><SPAN dir=ltr>(10)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/vj">vj </A><SPAN dir=ltr>(10)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Rituparna%20sengupta">Rituparna sengupta </A><SPAN dir=ltr>(9)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Star%20interview">Star interview </A><SPAN dir=ltr>(9)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Sushmita%20sen">Sushmita sen </A><SPAN dir=ltr>(9)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/ass">ass </A><SPAN dir=ltr>(9)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/bhagyashree">bhagyashree </A><SPAN dir=ltr>(9)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/bollywood%20babe">bollywood babe </A><SPAN dir=ltr>(9)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/bruna%20abdullah">bruna abdullah </A><SPAN dir=ltr>(9)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/charmee">charmee </A><SPAN dir=ltr>(9)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/deepika%20podukone">deepika podukone </A><SPAN dir=ltr>(9)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/gulpanag">gulpanag </A><SPAN dir=ltr>(9)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/hot%20pic">hot pic </A><SPAN dir=ltr>(9)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/hrishita%20bhatt">hrishita bhatt </A><SPAN dir=ltr>(9)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/masumeh%20makhija">masumeh makhija </A><SPAN dir=ltr>(9)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/miss%20india">miss india </A><SPAN dir=ltr>(9)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/prachi%20desai">prachi desai </A><SPAN dir=ltr>(9)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/raveena%20tandon">raveena tandon </A><SPAN dir=ltr>(9)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/super%20model">super model </A><SPAN dir=ltr>(9)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/vidya%20malvade">vidya malvade </A><SPAN dir=ltr>(9)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Guess%20who">Guess who </A><SPAN dir=ltr>(8)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Spicy%20photoshoot">Spicy photoshoot </A><SPAN dir=ltr>(8)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/anushka%20sharma">anushka sharma </A><SPAN dir=ltr>(8)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/desi%20girl">desi girl </A><SPAN dir=ltr>(8)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/ekta%20kapoor">ekta kapoor </A><SPAN dir=ltr>(8)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/meghna%20naidu">meghna naidu </A><SPAN dir=ltr>(8)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/paris%20hilton">paris hilton </A><SPAN dir=ltr>(8)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/real%20life%20picture">real life picture </A><SPAN dir=ltr>(8)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/rimi%20sen">rimi sen </A><SPAN dir=ltr>(8)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sangeetha%20ghosh">sangeetha ghosh </A><SPAN dir=ltr>(8)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/shamita%20shetty">shamita shetty </A><SPAN dir=ltr>(8)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sonali%20bendre">sonali bendre </A><SPAN dir=ltr>(8)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/vintage%20babe">vintage babe </A><SPAN dir=ltr>(8)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Bhairavi%20goswamy">Bhairavi goswamy </A><SPAN dir=ltr>(7)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Chitragandha%20singh">Chitragandha singh </A><SPAN dir=ltr>(7)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Malaiaka%20arora%20khan">Malaiaka arora khan </A><SPAN dir=ltr>(7)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Sandhya%20mridul">Sandhya mridul </A><SPAN dir=ltr>(7)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/ameesha%20patel">ameesha patel </A><SPAN dir=ltr>(7)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/anjana%20sukhani">anjana sukhani </A><SPAN dir=ltr>(7)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/anusha%20dandekar">anusha dandekar </A><SPAN dir=ltr>(7)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/ass%20crack">ass crack </A><SPAN dir=ltr>(7)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/big%20boobs">big boobs </A><SPAN dir=ltr>(7)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/controversial%20shots">controversial shots </A><SPAN dir=ltr>(7)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/first%20look">first look </A><SPAN dir=ltr>(7)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/item%20girl">item girl </A><SPAN dir=ltr>(7)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/kaveri%20jha">kaveri jha </A><SPAN dir=ltr>(7)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/kingfisher%20calendar">kingfisher calendar </A><SPAN dir=ltr>(7)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/movie%20wallpapers">movie wallpapers </A><SPAN dir=ltr>(7)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/naval">naval </A><SPAN dir=ltr>(7)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/nina%20manuels">nina manuels </A><SPAN dir=ltr>(7)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/partie%20and%20events">partie and events </A><SPAN dir=ltr>(7)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/preeti%20jhangiani">preeti jhangiani </A><SPAN dir=ltr>(7)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sagarika%20ghatge">sagarika ghatge </A><SPAN dir=ltr>(7)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sexy%20captures">sexy captures </A><SPAN dir=ltr>(7)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sexylegs">sexylegs </A><SPAN dir=ltr>(7)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/shweta%20tiwari">shweta tiwari </A><SPAN dir=ltr>(7)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sushmita">sushmita </A><SPAN dir=ltr>(7)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/ujwala%20raut">ujwala raut </A><SPAN dir=ltr>(7)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/urvashi%20sharma">urvashi sharma </A><SPAN dir=ltr>(7)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Britney%20spears">Britney spears </A><SPAN dir=ltr>(6)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Gemma%20atkinson">Gemma atkinson </A><SPAN dir=ltr>(6)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/aditi%20gowtirikar">aditi gowtirikar </A><SPAN dir=ltr>(6)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/bollywood">bollywood </A><SPAN dir=ltr>(6)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/candid">candid </A><SPAN dir=ltr>(6)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/childhood%20pictures">childhood pictures </A><SPAN dir=ltr>(6)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/hot%20babes">hot babes </A><SPAN dir=ltr>(6)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/jennifer%20kotwal">jennifer kotwal </A><SPAN dir=ltr>(6)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/mandira%20%20bedi">mandira bedi </A><SPAN dir=ltr>(6)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/manisha%20koirala">manisha koirala </A><SPAN dir=ltr>(6)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/masala%20babes">masala babes </A><SPAN dir=ltr>(6)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/neha%20jhulka">neha jhulka </A><SPAN dir=ltr>(6)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/panty%20slip">panty slip </A><SPAN dir=ltr>(6)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/ramp%20show">ramp show </A><SPAN dir=ltr>(6)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sexy%20photoshoot">sexy photoshoot </A><SPAN dir=ltr>(6)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/telly%20babes">telly babes </A><SPAN dir=ltr>(6)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/tv%20captures">tv captures </A><SPAN dir=ltr>(6)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/twinkle%20khana">twinkle khana </A><SPAN dir=ltr>(6)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/upcoming%20babe">upcoming babe </A><SPAN dir=ltr>(6)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/wet">wet </A><SPAN dir=ltr>(6)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Elizabeth%20hurly">Elizabeth hurly </A><SPAN dir=ltr>(5)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/FHM">FHM </A><SPAN dir=ltr>(5)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Poonam%20jhaver">Poonam jhaver </A><SPAN dir=ltr>(5)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Roza%20catalano">Roza catalano </A><SPAN dir=ltr>(5)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/TV%20babe">TV babe </A><SPAN dir=ltr>(5)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Urvashi%20dholakia">Urvashi dholakia </A><SPAN dir=ltr>(5)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/geeta%20basra">geeta basra </A><SPAN dir=ltr>(5)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/genelia%20d%27souza">genelia d'souza </A><SPAN dir=ltr>(5)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/indian%20model">indian model </A><SPAN dir=ltr>(5)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/koffee%20with%20karan">koffee with karan </A><SPAN dir=ltr>(5)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/long%20legs">long legs </A><SPAN dir=ltr>(5)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/mallaika%20arora%20khan">mallaika arora khan </A><SPAN dir=ltr>(5)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/neha%20oberoi">neha oberoi </A><SPAN dir=ltr>(5)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/newreaders">newreaders </A><SPAN dir=ltr>(5)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/priyamani">priyamani </A><SPAN dir=ltr>(5)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sada">sada </A><SPAN dir=ltr>(5)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sexy%20pics">sexy pics </A><SPAN dir=ltr>(5)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sexy%20pictures">sexy pictures </A><SPAN dir=ltr>(5)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/shweta%20keswani">shweta keswani </A><SPAN dir=ltr>(5)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/thunder%20thighs">thunder thighs </A><SPAN dir=ltr>(5)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/transparent">transparent </A><SPAN dir=ltr>(5)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/twinkle%20khanna">twinkle khanna </A><SPAN dir=ltr>(5)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/wardrobe%20malfunction">wardrobe malfunction </A><SPAN dir=ltr>(5)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/wwe%20divas">wwe divas </A><SPAN dir=ltr>(5)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/PETA%20Ad">PETA Ad </A><SPAN dir=ltr>(4)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Salma%20hayek">Salma hayek </A><SPAN dir=ltr>(4)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Shilpa%20saklani">Shilpa saklani </A><SPAN dir=ltr>(4)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Sneha%20ullal">Sneha ullal </A><SPAN dir=ltr>(4)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/ad">ad </A><SPAN dir=ltr>(4)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/ads">ads </A><SPAN dir=ltr>(4)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/barkha%20bisht">barkha bisht </A><SPAN dir=ltr>(4)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/bipasha">bipasha </A><SPAN dir=ltr>(4)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/candid%20pics">candid pics </A><SPAN dir=ltr>(4)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/gauri%20khan">gauri khan </A><SPAN dir=ltr>(4)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/gladrags%20calendar">gladrags calendar </A><SPAN dir=ltr>(4)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/gladrags%20models">gladrags models </A><SPAN dir=ltr>(4)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/hrithik%20roshan">hrithik roshan </A><SPAN dir=ltr>(4)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/jessica%20alba">jessica alba </A><SPAN dir=ltr>(4)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/magaziene%20cover">magaziene cover </A><SPAN dir=ltr>(4)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/maushmi%20udeshi">maushmi udeshi </A><SPAN dir=ltr>(4)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/movie%20awards">movie awards </A><SPAN dir=ltr>(4)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/movie%20stills">movie stills </A><SPAN dir=ltr>(4)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/neha%20uberai">neha uberai </A><SPAN dir=ltr>(4)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/padma%20lakshmi">padma lakshmi </A><SPAN dir=ltr>(4)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/payal%20rohatgi">payal rohatgi </A><SPAN dir=ltr>(4)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/perizaad%20zorabiyan">perizaad zorabiyan </A><SPAN dir=ltr>(4)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/pia%20trivedi">pia trivedi </A><SPAN dir=ltr>(4)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/pooja%20bedi">pooja bedi </A><SPAN dir=ltr>(4)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/priety%20zinta">priety zinta </A><SPAN dir=ltr>(4)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/scans">scans </A><SPAN dir=ltr>(4)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sexy">sexy </A><SPAN dir=ltr>(4)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sexy%20babe">sexy babe </A><SPAN dir=ltr>(4)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/shradha%20das">shradha das </A><SPAN dir=ltr>(4)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/shreya">shreya </A><SPAN dir=ltr>(4)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/shruti%20hasan">shruti hasan </A><SPAN dir=ltr>(4)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/shruti%20hassan">shruti hassan </A><SPAN dir=ltr>(4)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/stage%20show">stage show </A><SPAN dir=ltr>(4)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/surveen%20chawla">surveen chawla </A><SPAN dir=ltr>(4)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/vogue">vogue </A><SPAN dir=ltr>(4)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/wet%20and%20wild">wet and wild </A><SPAN dir=ltr>(4)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Ad%20shoot">Ad shoot </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Danielle%20lloyd">Danielle lloyd </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Lekha%20Washington">Lekha Washington </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/MTV%20roadies">MTV roadies </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Malliaka%20arora%20khan">Malliaka arora khan </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Rachna%20mourya">Rachna mourya </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Real%20life%20lip%20lock">Real life lip lock </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Serena%20williams">Serena williams </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Sheena%20Shahabadi">Sheena Shahabadi </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/anupama%20verma">anupama verma </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/babe%20of%20the%20month">babe of the month </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/barbara%20mori">barbara mori </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/beyonce%20knowles">beyonce knowles </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/bond%20girl">bond girl </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/cosmopolitan">cosmopolitan </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/deepshikha">deepshikha </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/dimple%20kapadia">dimple kapadia </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/divya%20khosla">divya khosla </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/filmfare%20awards">filmfare awards </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/funny">funny </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/halle%20berry">halle berry </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/hard%20kaur">hard kaur </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/hot%20captures">hot captures </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/juhi%20chawla">juhi chawla </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/konkona%20sen">konkona sen </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/lindsay%20lohan">lindsay lohan </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/lucy%20pinder">lucy pinder </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/mahek%20chahal">mahek chahal </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/mahima%20chaudhary">mahima chaudhary </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/masala%20models">masala models </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/mia">mia </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/mini%20skirt">mini skirt </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/mumait%20khan">mumait khan </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/mumaith%20khan">mumaith khan </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/negar%20khan">negar khan </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/paparazzi%20pics">paparazzi pics </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/photo%20and%20wallpapers">photo and wallpapers </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/pooja%20bhatt">pooja bhatt </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/rambha">rambha </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sanjeeda%20shaikh">sanjeeda shaikh </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sanober%20kabeer">sanober kabeer </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/shradha%20sharma">shradha sharma </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/shreya%20ghoshal">shreya ghoshal </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/shweta%20bhardwaj">shweta bhardwaj </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sonia%20mehra">sonia mehra </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/tanya%20sharma">tanya sharma </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/tellybabes">tellybabes </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/udita">udita </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/zeenat%20aman">zeenat aman </A><SPAN dir=ltr>(3)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Angelina%20jolie">Angelina jolie </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Asha%20saini">Asha saini </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Babe%20of%20the%20week">Babe of the week </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Deepika%20paukone">Deepika paukone </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Hrishita%20%20bhatt">Hrishita bhatt </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Keeley%20hazell">Keeley hazell </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Marisa%20miller">Marisa miller </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Miss%20world">Miss world </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/NRI%20babe">NRI babe </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Naina%20dhaliwal">Naina dhaliwal </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Navi%20rawat">Navi rawat </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Rachna%20maurya">Rachna maurya </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Sarah%20jane%20dias">Sarah jane dias </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Shruti%20seth">Shruti seth </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Sonal%20Chouhan">Sonal Chouhan </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Stacy%20Keilber">Stacy Keilber </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Swastika">Swastika </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Tv%20babes">Tv babes </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/aamna%20sharif">aamna sharif </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/akshay%20kumar">akshay kumar </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/alina">alina </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/amitabh">amitabh </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/anara%20gupta">anara gupta </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/anoushka">anoushka </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/anushka">anushka </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/aparna">aparna </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/ashwarya%20rai">ashwarya rai </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/beautiful%20pictures">beautiful pictures </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/behind%20the%20scenes">behind the scenes </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/bollywood%20stars">bollywood stars </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/boobs%20press">boobs press </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/carmen%20electra">carmen electra </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/carol%20gracious">carol gracious </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/chahat">chahat </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/cheerleaders">cheerleaders </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/cineblitz">cineblitz </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/close%20up">close up </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/dabboo%20ratnani">dabboo ratnani </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/debonair">debonair </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/deepti%20bhatnagar">deepti bhatnagar </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/deepti%20gujral">deepti gujral </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/dipika%20pallikal">dipika pallikal </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/femina">femina </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/filmfare">filmfare </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/funny%20pic">funny pic </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/golmaal%20returns">golmaal returns </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/holi%20pics">holi pics </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/hot%20models">hot models </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/hot%20song">hot song </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/hq%20scans">hq scans </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/karishma%20tanna">karishma tanna </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/kelly%20brook">kelly brook </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/kiran%20rathod">kiran rathod </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/kitu%20gidwani">kitu gidwani </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/koel%20puri">koel puri </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/laila%20khan">laila khan </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/lesbian%20kiss">lesbian kiss </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/madhu%20shalini">madhu shalini </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/magazine">magazine </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/magazine%20scan">magazine scan </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/malishka">malishka </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/mallia%20sherawat">mallia sherawat </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/mallu">mallu </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/maria%20sharapova">maria sharapova </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/mariah%20carrey">mariah carrey </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/mauli%20dave">mauli dave </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/mausmi%20udeshi">mausmi udeshi </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/megan%20fox">megan fox </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/mink%20singh">mink singh </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/mona%20singh">mona singh </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/mona%20wasu">mona wasu </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/monica%20bedi">monica bedi </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/mtv%20babes">mtv babes </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/mtv%20vj">mtv vj </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/nainadhaliwal">nainadhaliwal </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/narayani">narayani </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/neha%20bhasin">neha bhasin </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/nisha%20rawal">nisha rawal </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/noureen%20dewulf">noureen dewulf </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/parties%20and%20evnets">parties and evnets </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/party%20pictures">party pictures </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/parvathy%20omanakutta">parvathy omanakutta </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/photos%20and%20walpapers">photos and walpapers </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/photshoot">photshoot </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/posters">posters </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/preeti%20butani">preeti butani </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/priya%20rai">priya rai </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/puja%20gupta">puja gupta </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/rajesh%20khanna">rajesh khanna </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/rakshanda%20khan">rakshanda khan </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/ranbir%20kapoor">ranbir kapoor </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/reema%20sen">reema sen </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/rekha">rekha </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/reshma%20bombaywalla">reshma bombaywalla </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/rosa">rosa </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/saira%20bano">saira bano </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sameeksha">sameeksha </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sana%20khan">sana khan </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sana%20mirza">sana mirza </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sandhya%20shetty">sandhya shetty </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sanjana">sanjana </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sarmi">sarmi </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sexy%20back">sexy back </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sexy%20models">sexy models </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sexy%20stills">sexy stills </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sharbani%20mukherjee">sharbani mukherjee </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/shonali">shonali </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/shorts">shorts </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/shourya%20chauhan">shourya chauhan </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/shruti%20aggarwal">shruti aggarwal </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/shweta%20kumar">shweta kumar </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/simran">simran </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sindhu">sindhu </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sindhura">sindhura </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/singer">singer </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/singh%20is%20king">singh is king </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/smiley%20suri">smiley suri </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sneha">sneha </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sonakshi%20sinha">sonakshi sinha </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sonal">sonal </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sri%20devi">sri devi </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sucheta%20sharma">sucheta sharma </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sunidhi%20chauhan">sunidhi chauhan </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sunitha%20rao">sunitha rao </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sushma%20reddy">sushma reddy </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/swimsuite%20calender">swimsuite calender </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/tareena%20patel">tareena patel </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/tashan">tashan </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/telly%20babe">telly babe </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/tennis%20player">tennis player </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/tollywood%20babes">tollywood babes </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/trish%20stratus">trish stratus </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/tv%20anchor">tv anchor </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/udita%20goswamy">udita goswamy </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/upcoming%20model">upcoming model </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/without%20make%20up">without make up </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/world%20cup">world cup </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/wtf">wtf </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/yuvika%20chaudhary">yuvika chaudhary </A><SPAN dir=ltr>(2)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/2008">2008 </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Aarti%20aggarwal">Aarti aggarwal </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Aastha%20singal">Aastha singal </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Allison%20stokke">Allison stokke </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Amruta%20Khanvilkar">Amruta Khanvilkar </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Amruta%20patki">Amruta patki </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Anisha%20narang">Anisha narang </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Anita%20Hassdandani">Anita Hassdandani </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Anna%20kournikova">Anna kournikova </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Aushima%20sawhney">Aushima sawhney </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Australian%20open">Australian open </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Biker%20babes">Biker babes </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Cameroon%20diaz">Cameroon diaz </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Candice%20Michelle">Candice Michelle </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Carol%20gracias">Carol gracias </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Chandni%20chowk%20to%20china">Chandni chowk to china </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Charlize%20Theron">Charlize Theron </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Charu%20sharma">Charu sharma </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Chitrangda%20Singh">Chitrangda Singh </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/DIANDRA%20SOARES">DIANDRA SOARES </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Danielle%20Llloyd">Danielle Llloyd </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/DanielleLloyd">DanielleLloyd </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Dev%20D">Dev D </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Fashion">Fashion </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Fashion%20fail">Fashion fail </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Funny%20animation">Funny animation </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/GQ%20magazine">GQ magazine </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Hit%20blitz">Hit blitz </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Hrishitaa%20Bhatt">Hrishitaa Bhatt </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/IPL">IPL </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Ilena">Ilena </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Illeana">Illeana </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Indian%20idol">Indian idol </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Jade%20goody">Jade goody </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Jennifer%20aniston">Jennifer aniston </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Jessica%20Biel">Jessica Biel </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Jigna%20mehta">Jigna mehta </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Kanakana%20bakshi">Kanakana bakshi </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Kirsten%20Dunst">Kirsten Dunst </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/L%27officel">L'officel </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/MILF">MILF </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/MIranda%20Kerr">MIranda Kerr </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Manasvi%20Mamgai">Manasvi Mamgai </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Mayanti%20langer">Mayanti langer </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Meenakshi">Meenakshi </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Megha%20Kawale">Megha Kawale </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Meghana%20Naidu">Meghana Naidu </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Miss%20venezuela">Miss venezuela </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Nausheen%20Sardar%20Ali">Nausheen Sardar Ali </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Nepal%20models">Nepal models </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Olga%20Kurylenko">Olga Kurylenko </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Parvati%20melton">Parvati melton </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Perizad%20kolah">Perizad kolah </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Reita%20Faria">Reita Faria </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Rosa%20catalano">Rosa catalano </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Roselyn%20Sanchez">Roselyn Sanchez </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Rumours">Rumours </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Saara%20khan">Saara khan </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Saina%20Nehwal">Saina Nehwal </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Saira%20mohan">Saira mohan </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Scarlett%20Johansson">Scarlett Johansson </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Shamita%20singha">Shamita singha </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Shenaz%20Treasurywala">Shenaz Treasurywala </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Simran%20kaur%20mundi">Simran kaur mundi </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Sindhura%20ghadde">Sindhura ghadde </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Tania%20zaetta">Tania zaetta </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Tara%20reid">Tara reid </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Tara%20sharma">Tara sharma </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Tight%20T-shirt">Tight T-shirt </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Verve">Verve </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Victoria%20beckham">Victoria beckham </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/Vipasha%20aggarwal">Vipasha aggarwal </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/What%20the%20fuck">What the fuck </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/aamina%20haq">aamina haq </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/aditi%20chaudhary">aditi chaudhary </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/ahskay%20kumar">ahskay kumar </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/aishika%20chand">aishika chand </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/alina%20wadiawala">alina wadiawala </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/alisha">alisha </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/amrit%20dhaliwal">amrit dhaliwal </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/amrita%20singh">amrita singh </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/anchal%20kumar">anchal kumar </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/anchit%20kaur">anchit kaur </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/animation">animation </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/ankita">ankita </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/ankita%20sehgal">ankita sehgal </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/anmol">anmol </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/antara%20mali">antara mali </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/anu%20ojha">anu ojha </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/anushka%20dandekar">anushka dandekar </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/archana%20puran%20singh">archana puran singh </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/arti%20sharma">arti sharma </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/arun%20nayar">arun nayar </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/arya%20vohra">arya vohra </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/asha%20parekh">asha parekh </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/auto%20expo%20babes">auto expo babes </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/avantikka">avantikka </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/award%20function">award function </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/ayesha%20omer">ayesha omer </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/babe">babe </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/babes">babes </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/bachna%20ae%20haseeno">bachna ae haseeno </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/beauty%20queen">beauty queen </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/bhairavi">bhairavi </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/bhoomika%20chawla">bhoomika chawla </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/big%20boss">big boss </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/bijoyeta%20basu">bijoyeta basu </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/billa">billa </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/billu%20barber">billu barber </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/bio">bio </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/bipasha%20%20basu">bipasha basu </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/bruch">bruch </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/busty%20babe">busty babe </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/camel%20toe">camel toe </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/cameltoe">cameltoe </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/cannes">cannes </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/caption%20this">caption this </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/carla%20bruni">carla bruni </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/cartoon">cartoon </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/catfight">catfight </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/chandrika">chandrika </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/channel%20v">channel v </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/charmi">charmi </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/charmy">charmy </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/chat%20show">chat show </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/christel%20khalil">christel khalil </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/daisy%20bopanna">daisy bopanna </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/danielle%20llyod">danielle llyod </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/deepika">deepika </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/deepika%20pallikal">deepika pallikal </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/delhi%206">delhi 6 </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/demi%20moore">demi moore </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/diana%20penty">diana penty </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/divyanka%20bedi">divyanka bedi </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/downloads">downloads </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/dus%20ka%20dum">dus ka dum </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/elle">elle </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/emily%20scott">emily scott </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/eva%20mendes">eva mendes </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/fashionshow">fashionshow </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/fear%20factor">fear factor </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/fergie">fergie </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/festival%20pictures">festival pictures </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/garima%20parnami">garima parnami </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/gauhar%20khan">gauhar khan </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/gauri%20pradhan">gauri pradhan </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/gurbani">gurbani </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/hally%20barry">hally barry </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/hazel">hazel </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/hema%20esha">hema esha </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/hema%20malini">hema malini </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/hot">hot </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/hot%20%20babe">hot babe </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/hot%20%20babes">hot babes </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/hot%20pose">hot pose </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/hot%20scans">hot scans </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/hotpcis">hotpcis </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/ileana">ileana </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/illena">illena </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/illusion">illusion </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/imran%20khan">imran khan </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/indian%20star">indian star </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/interview">interview </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/isabela%20kaif">isabela kaif </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/isabella%20kaif">isabella kaif </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/isha%20sharvani">isha sharvani </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/isha%20sharwani">isha sharwani </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/ishita%20sharma">ishita sharma </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/jayalalitha">jayalalitha </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/jennifer%20lopez">jennifer lopez </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/jennifer%20tilly">jennifer tilly </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/jiakhan">jiakhan </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/jk%20rowling">jk rowling </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/jodha%20akbar">jodha akbar </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/juhi%20parmar">juhi parmar </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/kabul%20express">kabul express </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/kamal%20hassan">kamal hassan </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/kamal%20sidhu">kamal sidhu </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/kamna%20jaithmalani">kamna jaithmalani </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/kangna%20renaut">kangna renaut </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/karishma%20kotak">karishma kotak </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/kasak">kasak </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/katrina%20kaif%20magazine%20scans">katrina kaif magazine scans </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/keira%20knightley">keira knightley </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/khatron%20ke%20khiladi">khatron ke khiladi </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/khloe%20kardashian">khloe kardashian </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/komolika">komolika </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/kourtney%20kardashian">kourtney kardashian </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/laila%20rouss">laila rouss </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/lakshmi%20rai">lakshmi rai </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/laxmi%20rai">laxmi rai </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/leg%20show">leg show </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/lena%20jamon">lena jamon </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/linda">linda </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/lisa%20lazarus">lisa lazarus </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/lucious%20lips">lucious lips </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/madhu%20sapre">madhu sapre </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/maliskha">maliskha </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/malliakra%20arora">malliakra arora </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/mallika%20kapoor">mallika kapoor </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/mamta%20mohandas">mamta mohandas </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/mandakini">mandakini </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/manjari%20fadnis">manjari fadnis </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/masala%20babe%20of%20the%20month">masala babe of the month </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/masala%20babes%20exclusive">masala babes exclusive </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/minnie%20gupta">minnie gupta </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/miss%20pakistan">miss pakistan </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/mms">mms </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/model">model </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/monishka">monishka </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/moondas">moondas </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/movie%20poster">movie poster </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/movie%20promo">movie promo </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/mrinalini%20sharma">mrinalini sharma </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/mtvroadies">mtvroadies </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/nafisa">nafisa </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/nagma">nagma </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/nandini">nandini </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/nandita%20mahatani">nandita mahatani </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/nargis">nargis </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/natasha%20suri">natasha suri </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/navneet%20kaur">navneet kaur </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/nayantra">nayantra </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/nazneen%20patel">nazneen patel </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/needhi%20gill">needhi gill </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/neelam%20chauhan">neelam chauhan </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/neetu%20singh">neetu singh </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/neha%20sharma">neha sharma </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/nikita%20anand">nikita anand </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/nip%20pokie">nip pokie </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/nirma">nirma </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/nisha%20kotari">nisha kotari </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/offcourt%20pics">offcourt pics </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/olympics">olympics </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/on%20the%20beach">on the beach </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/padmani%20kohlapuri">padmani kohlapuri </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/paintings">paintings </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/pakistani%20model">pakistani model </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/palak%20kapoor">palak kapoor </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/pamela%20anderson">pamela anderson </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/parizad%20zorabian">parizad zorabian </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/parminder%20nagra">parminder nagra </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/parvathy%20omanakuttan">parvathy omanakuttan </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/payel%20tarefdar">payel tarefdar </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/penelope%20cruz">penelope cruz </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/photoa">photoa </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/photocall">photocall </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/photos%20and%20walls">photos and walls </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/pic">pic </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/pictures">pictures </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/pink%20panther">pink panther </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/politician">politician </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/poll">poll </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/pooja%20arora">pooja arora </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/pooja%20batra">pooja batra </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/pooja%20gandhi">pooja gandhi </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/pooja%20gulati">pooja gulati </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/poonam%20dhillon">poonam dhillon </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/poonam%20jhawar">poonam jhawar </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/pop%20singer">pop singer </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/portfolio">portfolio </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/poster%20of%20da%20day">poster of da day </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/ppoja%20bhatt">ppoja bhatt </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/prerna%20virender">prerna virender </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/preti%20butani">preti butani </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/prianca%20sharma">prianca sharma </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/private%20pics">private pics </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/promotions">promotions </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/push%20up%20bra">push up bra </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/race">race </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/rakhi%20gulzar">rakhi gulzar </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/rare%20video">rare video </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/reva%20babbar">reva babbar </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/revathi">revathi </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/rhea%20kapoor">rhea kapoor </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/richa%20chadha">richa chadha </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/rituparna%20sen%20gupta">rituparna sen gupta </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/rituporne%20sengupta">rituporne sengupta </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/robot">robot </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/rosa%20ali%20khan">rosa ali khan </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/rucha%20gujrati">rucha gujrati </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/rukhsar">rukhsar </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sakshi%20tanwar">sakshi tanwar </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/salman%20khan">salman khan </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/saloni">saloni </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sambhavna%20seth">sambhavna seth </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/samita">samita </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sana%20saeed">sana saeed </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sangeeta%20ghosh">sangeeta ghosh </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sani%20mirza">sani mirza </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sarah%20shahi">sarah shahi </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sarita%20chaudhary">sarita chaudhary </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/selvi%20awad">selvi awad </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sexy%20add">sexy add </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sexy%20aunty">sexy aunty </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sexy%20boobs">sexy boobs </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sexy%20model">sexy model </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sexy%20song">sexy song </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sexy%20thighs">sexy thighs </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/shahrukh%20khan">shahrukh khan </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/shaurya%20chauhan">shaurya chauhan </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/shayamali%20malakar">shayamali malakar </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sheetal%20menon">sheetal menon </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/shefali%20gupta">shefali gupta </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/shefali%20shah">shefali shah </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/shehnaz">shehnaz </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/shilpa%20reddy">shilpa reddy </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/shilpa%20shukla">shilpa shukla </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/shipa%20shirodkar">shipa shirodkar </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/shivani%20kapoor">shivani kapoor </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/shweta%20gulati">shweta gulati </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/shweta%20kwatra">shweta kwatra </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/shyla%20lopez">shyla lopez </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sidra%20khan">sidra khan </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/simbu">simbu </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/singh%20is%20kinng">singh is kinng </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/singha%20sisters">singha sisters </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/skshi%20tanvar">skshi tanvar </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/smita">smita </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/smita%20sharma">smita sharma </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/smooch">smooch </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/soha%20ali%20kha">soha ali kha </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sonal%20sehgal">sonal sehgal </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sonali%20raut">sonali raut </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/spicy%20pics">spicy pics </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sports%20anchor">sports anchor </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/squash">squash </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/stacy%20keibler">stacy keibler </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/stage%20performance">stage performance </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/stardust">stardust </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/stars%20birthday">stars birthday </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sugandha">sugandha </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/suhani">suhani </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sussane%20khan">sussane khan </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/suzzane%20khan">suzzane khan </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/sweety">sweety </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/swetha">swetha </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/tabbu">tabbu </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/tanisha%20mukherjee">tanisha mukherjee </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/tanvi%20verma">tanvi verma </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/tarina%20patel">tarina patel </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/taushree%20dutta">taushree dutta </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/tejaswini%20kolhapuri">tejaswini kolhapuri </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/telly%20star">telly star </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/tulsi%20kumar">tulsi kumar </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/tv%20stars">tv stars </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/upcoming%20girl">upcoming girl </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/upcoming%20movie">upcoming movie </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/urmila">urmila </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/uvika%20chaudhary">uvika chaudhary </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/vidya">vidya </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/vj%20juhi">vj juhi </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/weird">weird </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/wide%20screen%20wallpaper">wide screen wallpaper </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/yana">yana </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/yukta%20mookey">yukta mookey </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/zareen%20khan">zareen khan </A><SPAN dir=ltr>(1)</SPAN> 
+<LI><A dir=ltr href="http://masalababes.blogspot.com/search/label/zine">zine </A><SPAN dir=ltr>(1)</SPAN> </LI></UL>
+<DIV class=clear></DIV><SPAN class=widget-item-control><SPAN class="item-control blog-admin"><A class=quickedit title=Edit onclick='return _WidgetManager._PopupConfig(document.getElementById("Label1"));' href="http://www.blogger.com/rearrange?blogID=5877773710011776982&amp;widgetType=Label&amp;widgetId=Label1&amp;action=editWidget" target=configLabel1><IMG height=18 alt="" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width=18> </A></SPAN></SPAN>
+<DIV class=clear></DIV></DIV></DIV>
+<DIV class="widget HTML" id=HTML1>
+<DIV class=widget-content><!-- Start FreeOnlineUsers.com --><A href="http://www.freeonlineusers.com"><FONT color=#000000>
+<SCRIPT src="http://freeonlineusers.com/on2.php?id=25106" type=text/javascript> </SCRIPT>
+153 Online Users</FONT></A> <!-- End FreeOnlineUsers.com -->
+<SCRIPT src="http://widgets.amung.us/classic.js" type=text/javascript></SCRIPT>
+</DIV></DIV></DIV></DIV></DIV></DIV></DIV></BODY></HTML>
